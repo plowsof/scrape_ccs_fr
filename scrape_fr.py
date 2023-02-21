@@ -26,7 +26,7 @@ def send_msg(msg):
     server = "irc.libera.chat"
     #server = "irc.freenode.net"
     #this function will hang while waiting for someone to say hello
-    msg = bytes(msg, 'ascii')
+    msg = bytes(msg, 'utf-8')
     irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #defines the socket
     print("connecting to:"+server)
     irc.connect((server, 6667))                                                         #connects to the server

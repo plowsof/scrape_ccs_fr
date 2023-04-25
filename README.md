@@ -5,10 +5,10 @@ json: https://getwishlisted.xyz/proposals.json (do not trust the addresses here,
 
 Censored output of ccs_overfunded.py
 
-Total xmr overfunded: 243.257731178816    
+Total xmr overfunded: 244.776255193556
 
-| Amount | Title | Address | atomic units |   
-| --- | --- | --- | --- |
+| Amount | Title | Address | atomic units |
+| --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
 | 23.988050137644 | anon: perfect peer to peer protocol from bottom to top | 89sK3jWNF4aAErLRFp5vVKZ66tRN5FoeHehE3Nd8JFDHUmmEZUc8Kw62DR3dSptzjNVQxN84UacdB7vKKYSqwyEJEyh1MLU | 23988050137644 |
 | 21.496167005349 | xiphon part-time coding (3 months) | 84i7ZtxXqhLeKpBBh2Gb2sdKK6y8h3kJdcsJdgRwirycTHXcDdjpPX59wqf6PBxsPUhbzDUkcqWVSSxz6xYeGeFsVjEx5Hs | 21496167005349 |
@@ -34,6 +34,7 @@ Total xmr overfunded: 243.257731178816
 | 1.701471601721 | Create Monero educational content in Spanish | 88QNBKkTCoASLd6J27bGYodM7LnGtVKiqZ4WD6yRX4334KqYf9eqJVWYNbkDdBYmv8HpEBcy1oQN3WHFV3s8guGBMqLZzfR | 1701471601721 |
 | 1.332938168715 | Continued Feather Wallet development (3 months) | 82XSuYtqv4fEPfb78FgpbdK8tcmJvTZriLnMbkvcQ1P154bupy8Dng3ipSr6s2PeNdUjpAdVvy36JCsPiyYKXmQDCi6KbLC | 1332938168715 |
 | 1.330000000001 | rating89us part-time Monero GUI UI/UX development (3 months) | 87qGdmvBu611XjD6nHNaASenmsi1ftb8nJLoqkkTMSZbTudFBmWs4gXGn8c54e7rQJQtAnZWyEsjf82c8A9SeRMhDsrCiQe | 1330000000001 |
+| 1.120351331535 | Continued Feather Wallet development (3 months) | 87LRmsrzz2Qj9LGYYfuFA9YivLtRRBDK3BcpStNM2ELpPw1s3LPmGgvPPUoiLPnNeEQYuu5owXfu8K86FNysK17ZNeqHcVe | 1120351331535 |
 | 1.110486815142 | Monero Atomic Swaps research funding | 898hD8yLWesJdvMr4XgKGzQ2ybnDw9q8X1EvVm3f6eEXQiFwkS83eh4QEhqFCJKaSUaqkKg6rkizBa2kHJfzTwnUAGjvJUb | 1110486815142 |
 | 1.075389780002 | selsta part-time monero development (3 months) | 834Dwr2B4nTQwgiEkHp8toPCMLRqMxYiMj437SNMqBrti6irpiVqH96V9hU28MiUEZUKcEcUvPHwSfShfocrHr33UatzA74 | 1075389780002 |
 | 1.043537786676 | CCS Coordinator (3 months) | 83WLuNk4C3t5qUQo6SN4j1aRV5bWfPuCALCpvp63SfpWfQqcmbezK2naimB6JHoLSVS5YkYCQNYFmddNonQBcchEVjb26JP | 1043537786676 |
@@ -43,7 +44,7 @@ Total xmr overfunded: 243.257731178816
 | 1.002538816682 | Douglas Tuman Working full-time on Monero Projects (6 months) | 87P9Zif28qkAY7LJWuCvXbY1x9ttFq3wW97LpJzEVsWkg3vcE57rzoXC2jYa9QgUS7f2mDCpsAiWcWpE7Rf8cvbbGFuRB5G | 1002538816682 |
 | 0.992348041747 | MoneroKon 2023 CCS-1 | 83wfKrE7Gg2ZdkL5PfEG29T45PNa6BtKCcVsstU7BrrE27G2vEUQfJEeE8BU3QMju78qBbnBUmorEKgQ8DTmmkkN9kJQNF8 | 992348041747 |
 | 0.900307137736 | MoneroKon 2022 CCS | 88hXZutPWup1NdzwGa27PMdVnySJ3SZFPKD4T4rLm4maBw9nYKGSGmf68ffhgtET7RaLp3qYvS1jTaKxaChTtmnh8NJ1cnw | 900307137736 |
-| 0.744556711331 | Continued Feather Wallet development (3 months) | 87LRmsrzz2Qj9LGYYfuFA9YivLtRRBDK3BcpStNM2ELpPw1s3LPmGgvPPUoiLPnNeEQYuu5owXfu8K86FNysK17ZNeqHcVe | 744556711331 |
+| 0.761562470698 | koe: Seraphis Ongoing Support | 84AtLUpbbumfPuPNqy4zkxXvcpaSZ5iTKY6YxRbwp3W57Nvc1UqMjaDBH9ktMvkRX4MrAEGhnSWCXLTYFjq4BNn6U2UMXdn | 761562470698 |
 | 0.701848704532 | ETH-XMR Atomic Swap Development | 86pbcxTMkMv4EfsXBM1qg3Z7CaDrBW7313hEBDAmTqxgMjrXhwMyTH3XSC3oawtCse4kRHdkviaek72VHdCCyca8E17iAbz | 701848704532 |
 | 0.64768069867 | Bulletproofs+ Audit 2 | 88YtXZsS8f26KmU1jgSsVu4F9X3uRJ3FmL7QDg5jTYNd39TqXpNzRTMH4ffaHCC5F1L7Sfeu3SzucQV1RCwyBrda8KyZ7TM | 647680698670 |
 | 0.513763871266 | Proposal to Add Monero (XMR) as a Payment Option on the Tesla Website | 85ji3XoKqvQe5GnmRQ8deDXMGErDfv5z8GiVSLZqJFSjfu81fPCUqp4ZfTZLqz8hxpAP3NK4bTHRvZF6XgKc76PJ9Y6N1RP | 513763871266 |
@@ -61,6 +62,7 @@ Total xmr overfunded: 243.257731178816
 | 0.219103376906 | ErCiccione: 3 more months part time work on Getmonero.org (January-March) | 84W1RSBG1RfRdzVPwHhijufJj6S9UmjoV3DphknGB7vcJvLozb8TaWrFEwY61e8zmPJtUefq41sPP1Nbo3f8vCyyPWJ4wY6 | 219103376906 |
 | 0.21432177786 | Creation of Python tools and educational material for checking and explaining the absence of money leakage (a.k.a. inflation) in Monero. | 84Uf8NWjg7x6LasUFdP1GridcXMWWV7mr7SpEYoadP3ibxcvRH1ZA8229kq78m17hchfnpHxGqstw9sTKkAifAE7CvMLmPU | 214321777860 |
 | 0.21426469959 | koe: Seraphis Proof-of-Concept | 87Fq1LK9XL6WLq2CosWbweZrUS4MnyWhAVXJNEwbmPeoFDvMTfxQshAiPoXBHRZMvGcNeAuJpA49j7LdZtgL1Qb4H3FBMnx | 214264699590 |
+| 0.187101578092 | Bulletproofs++ Peer Review | 83fzTKWkbQ661X8jioZhsKTDAcY7rvJVP9pg2Fe8jytG1EmGEQryRuQHpukB6LazLQeaKHcVaxG4octH2k3QsjEDNkZJCxf | 187101578092 |
 | 0.183674101909 | ErCiccione: 3 more months part time work on Getmonero.org (flexible) | 88CyKBx5q2D5mmPcy8bTbtD25SCJ8yHaB7ez34kWYUspDAwdkhCq4h2DT2avP3RhMGbqS73GrhoHUBaYdSKrmbtfV2TH9SN | 183674101909 |
 | 0.178281453464 | Research post-quantum strategies for Monero | 8C8YyrxbsxGWBPV43NpQ7c1jaDBNSyjm7EQ1Uaibza26NiCxvWUekXm8HUdAWzmTo5CR49sDArERY11TggW4z6ewPJxdN4v | 178281453464 |
 | 0.162780530361 | j-berman full-time development (3 months) | 8APtdZXjA86aMff8NPDZ4YAFoyXB5SABRJzQiyWwT1f4Fwkn5G9stYQdjuj9rCGPn5MifLeZqGAdxE2hS6HFskMH3WZRrie | 162780530361 |
@@ -72,6 +74,8 @@ Total xmr overfunded: 243.257731178816
 | 0.107600535717 | German translation of Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) | 88Turr2jQQxb9nLXiAyJk2JBSVNBSpRfnPtZuuiYfLNxcGLShXLxYMLhfpaNmxZnuxTD2RocmQT99HsBTtXJDwZZPtiJAcx | 107600535717 |
 | 0.106033418494 | Continued Feather Wallet development (3 months) | 86aa2rzDZEBMnJLmX6aH17Tjj8QkYwoWP2V3LSpXKPW4XvyuWwhzvYHAmYe97nNVV6gYAZ9TFipFBgQvzeDD4B4YLJkYnC8 | 106033418494 |
 | 0.102272626261 | v1docq47 - video creation and translations into russian (august - january 2022) | 88NpXw3i3yMQqWhjurWiue4HzeGZXvd3EWsSGtgpdyPbYdKRQZYGSKE8Govm8r8kG9FdLgZTKYbkzLKn58nqX7MDUwAhMJ9 | 102272626261 |
+| 0.098560005998 | Maintaining Flatpak package | 86FByDrMfxzYuLcm7jS3K6WdXegUpwxVMEw2GQxExTuMWDqiJSGVg8HhBRJfN3K39VRoTfkqmQxAFfEHoUBGKpayVJuX98B | 98560005998 |
+| 0.095505339748 | dangerousfreedom - wallet development 2 | 88e7WffYzBTF2GByBMFzW21RAojXY7XuEFo51gJkvxikAKk6qQoRhEhVDDd1zKAiKyGo35rUayGhFjoh8Z8cAagW53daJ4N | 95505339748 |
 | 0.082360854489 | xiphon full-time coding (3 months) | 8A9Dn1FS4sVWvVVhLJ3A5jYDzJPhv3t4GFjiwokbjzcxMW7vuXefFc9QchjhdXm5Bn13UACEFRTYKWJvZpcRwjFtStmLMA3 | 82360854489 |
 | 0.06 | escapethe3RA Monero Observer maintenance (Winter 2022) | 85z5nQQ8hkuQcDavP5yG5miLdMNN9r9YKELiFeiMksHZAF1MD6GDRokUqMQsQRL6pGNnSiEoL1isdEvofQDys5mo6cKhEmK | 60000000000 |
 | 0.057387001971 | mj part time coding Q3 2021 | 88ev2daEhgJHDBg6Sf53Y46umtBpYJDba8NXLVNEpUMbKSNSHwNkDQuc23FTzDRwgNa1bx9KsJZaAH3QT7EnBw2HNdXSdDG | 57387001971 |

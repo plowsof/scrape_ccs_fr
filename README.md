@@ -3,10 +3,12 @@ Dedicated to long time community member nioc who never fails to inform -communit
 rssfeed: https://getwishlisted.xyz/ccs_fr.xml (updated every 10mins)    
 json: https://getwishlisted.xyz/proposals.json (do not trust the addresses here, obtain from official sources)
 
-Censored output of ccs_overfunded.py
+The ccs + ccs.keys files are a daily updated view only version of the ccs wallet (with titles added to addresses of existing/new ccs proposals). You can download it and view it on e.g. the Monero GUI. The list below is also updated daily.
 
-Total xmr overfunded: 244.776255193556
+---
 
+Total overfunding: 244.776255193556    
+Last Updated: 2023-04-26    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -113,7 +115,6 @@ Total xmr overfunded: 244.776255193556
 | 0.0041 | Norwegian translation of webplate, footers, nav. menu | 88xhg3kueQyFAJm8HsPdaq7Hnr3UD26ccbdZ75ZyTCDPBUTJmwd153VZt6XKyWn2mb4NAMmCMhmSZFgNydi9Xncy3PrLC9m | 4100000000 |
 | 0.00406144783 | escapethe3RA Monero Observer maintenance (Spring 2022) | 87eg52PZdpR2HAWiWgLgZfDVM42bxAKFN8xVgLvPik336roGMqkCTZhKfGRfAzCdCmVfpSDpJDKSiJKFuckiSPuDUgyaZx6 | 4061447830 |
 | 0.001789330025 | Funding for The Monero Moon Newsletter | 86LNRbuqPkc4twgdGfmuLd7oxMDKNsKLgbzvZtFJqnW7T1bLx51DtWZ5yc16fWy5SgQjH8e8WgiSv1zFo5nF5foDBwRYMZP | 1789330025 |
-| 0.00039084 | Monero Meme Site Get Tipped For Monero Memes | 84P5orgL5RFfhBU6aVcqPZBKbawryRXcF8KZrpsaMrQ6jSpHyyYauZPHzujUPBhdggTjhjjHcVRrHS8mh1hBkDxW8CRVY3u | 390840000 |
+| 0.00039084 | Monero Meme Site / Get Tipped For Monero Memes | 84P5orgL5RFfhBU6aVcqPZBKbawryRXcF8KZrpsaMrQ6jSpHyyYauZPHzujUPBhdggTjhjjHcVRrHS8mh1hBkDxW8CRVY3u | 390840000 |
 | 0.000238826099 | Continued Feather Wallet development (Q1 2021) | 89h16g3GwgDM9TK4pUymB9aPv4yDGD36ebWGS3sqcx8cjZnycC87o8PPVtrwLWyi5PMh1B2ZQukGuGwteAhVNewQBBX37Fb | 238826099 |
 | 0.000000000001 | Spanish translation and proofreading of the monero site, GUI/CLI wallets and User Guides | 84mUqhkuk3uMBUyoXGa7cPLrkrmffexmaVcXmSU5Sh2ELwLRVFZpH6u8zxvf8RhZvjdJ234darW3UPfLwY1QaUtSJembpy1 | 1 |
-

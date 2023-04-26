@@ -1,0 +1,28 @@
+name: Update Cache / Overfunded
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Run Python script
+      run: | 
+        python get_overfunded.py  # Replace with the name of your Python script
+        git rm *log -f
+      
+    - name: Add changes
+      run: git add .
+      
+    - name: Commit changes
+      run: git commit -m "Update files"  # Replace with an appropriate commit message
+      
+    - name: Push changes
+      run: git push origin HEAD:${{ github.ref }}  # Push changes to the current branch

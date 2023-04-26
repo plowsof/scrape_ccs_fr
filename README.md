@@ -5,6 +5,7 @@ json: https://getwishlisted.xyz/proposals.json (do not trust the addresses here,
 
 The ccs + ccs.keys files are a daily updated view only version of the ccs wallet (with titles added to addresses of existing/new ccs proposals). You can download it and view it on e.g. the Monero GUI. The list below is also updated daily.
 
+note* the monero-wallet-rpc binary is compiled from the master branch as it uses --no-initial-sync flag not yet in release (?)
 ---
 
 Total overfunding: 244.776255193556    

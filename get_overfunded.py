@@ -8,7 +8,7 @@ import sys
 import time
 import datetime
 
-node_address = "http://node2.monerodevs.org:18089"
+node_address = "http://node.monerodevs.org:18089"
 local_rpc = "http://localhost:18084"
 def start_monero_rpc():
     global node_address, local_rpc
@@ -41,7 +41,7 @@ def start_monero_rpc():
     while current_height != target_height:
         try:
             response = requests.post(
-                'http://127.0.0.1:18084/json_rpc',
+                'http://localhost:18084/json_rpc',
                 json={'jsonrpc': '2.0', 'id': '0', 'method': 'get_height'}
             )
             current_height = response.json()['result']['height']

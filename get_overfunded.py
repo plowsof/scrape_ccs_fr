@@ -40,7 +40,11 @@ def start_monero_rpc():
     target_height= 1
     while current_height != target_height:
         try:
-            current_height = local_rpc_connection.get_height()["height"]
+            response = requests.post(
+                'http://127.0.0.1:18084/json_rpc',
+                json={'jsonrpc': '2.0', 'id': '0', 'method': 'get_height'}
+            )
+            current_height = response.json()['result']['height']
             target_height = remote_rpc_connection.get_info()["height"]
             print(f"Current height:{current_height}")
             print(f"Target height:{target_height}")

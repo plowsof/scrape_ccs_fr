@@ -7,8 +7,8 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.784672858509    
-Last Updated: 2023-05-01    
+Total overfunding: 244.784672868509    
+Last Updated: 2023-05-02    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -108,7 +108,7 @@ Last Updated: 2023-05-01
 | 0.012386058686 | xmrSale Payment Processor Development | 88KxwcXSXsUd1GFomCRrFuaiwp6hadCXgYDFBiobMPTqe5iBGcNmL8qL6MQDobDeEDNLiyU4pZpyTBdZ6UmhtQmZ7kevH7A | 12386058686 |
 | 0.011424051223 | midipoet-Oslo_Freedom_Forum_CCS_proposal.md | 86M5sroPsu6HrTZ7EgqAC567o9TKeG7ABC7ZtCbisDd18LgZDN2icg52asE6kYDvViaHA72fxEXAx2TCRovcVSxVFxg4xp4 | 11424051223 |
 | 0.008768405587 | Three Months of Translation Coordination | 89RsSRJCmYK8QQ9NQ3jyz15eWr5Sk4TF36APYAE9mvFt3YLcHhtj2aQTE7FWVmkkgL1xz5TEhCV67bEWMUB44DYA6ZTeMKg | 8768405587 |
-| 0.008417664953 | v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru | 84Ypq7gVCpNCagn5Qe8Srn6HZenzHZV487WgmjhvQdQfRm9rbyCEM9HGJd4FaXPbSJ912mK2jvgCnVSo4uGt6DhsJjWUNpm | 8417664953 |
+| 0.008417674953 | v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru | 84Ypq7gVCpNCagn5Qe8Srn6HZenzHZV487WgmjhvQdQfRm9rbyCEM9HGJd4FaXPbSJ912mK2jvgCnVSo4uGt6DhsJjWUNpm | 8417674953 |
 | 0.00710565658 | Deploy and maintain Monero Casino. | 8Bso1wNFPb5FdTiyyWZYJUAUzffVZErzrj8czcVNFJhNZQraY3V8DxMK9WzPp9LGCS8r74EsdQgHvD3eZTbW6YZ3CYMSybM | 7105656580 |
 | 0.006923352686 | selsta part-time monero development (3 months) | 8BshSthu57FiWKxNopM9XkgBCeQKYawNGUhbJdHEmN9VBwUjJygyZzjdRanNa3AjFCP5Qc8VkXgxkB8uZbXXbS9WP5sEgmU | 6923352686 |
 | 0.006791841596 | mj part time coding Q4 2021 | 8BGGrUwwFWhYFn8N3RYmbmax9AkGGx84VJN9SnAq8HZ8hFmi5pbFM9mSqawhd6FP5CBPwoJXtpuQ1es2VwaQCkUbBsH6bYM | 6791841596 |

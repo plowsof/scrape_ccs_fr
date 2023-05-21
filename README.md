@@ -7,7 +7,7 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.784711388509    
+Total overfunding: 244.794724775554    
 Last Updated: 2023-05-21    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -112,6 +112,8 @@ Last Updated: 2023-05-21
 | 0.00710565658 | Deploy and maintain Monero Casino. | 8Bso1wNFPb5FdTiyyWZYJUAUzffVZErzrj8czcVNFJhNZQraY3V8DxMK9WzPp9LGCS8r74EsdQgHvD3eZTbW6YZ3CYMSybM | 7105656580 |
 | 0.006923352686 | selsta part-time monero development (3 months) | 8BshSthu57FiWKxNopM9XkgBCeQKYawNGUhbJdHEmN9VBwUjJygyZzjdRanNa3AjFCP5Qc8VkXgxkB8uZbXXbS9WP5sEgmU | 6923352686 |
 | 0.006791841596 | mj part time coding Q4 2021 | 8BGGrUwwFWhYFn8N3RYmbmax9AkGGx84VJN9SnAq8HZ8hFmi5pbFM9mSqawhd6FP5CBPwoJXtpuQ1es2VwaQCkUbBsH6bYM | 6791841596 |
+| 0.005368005762 | selsta part-time monero development (3 months) | 84CDb1nZBtv5Xtco1meargUzKi34C66ukM8bsnguo2GF2iWWRV7gyht7DT8Ls16c6h2HE27g1gKC1JoBFGDoLiNyR3ZqBaZ | 5368005762 |
+| 0.004645381283 | CCS Coordinator | 83nAqfWkBt2NrtjHotQsNHdwQao99f4oXh9VAyCo4oaXXJrb7AHSvrMZvjR4dmQhgUSwP2aHbpfWv4rxcqhh5mxqPcLrVMB | 4645381283 |
 | 0.004264 | Translation of Mastering Monero into Brazilian Portuguese | 85hePyhysyqbNKzafAAHodKNakqJRHqbBeA5zN9QHDX9iz5LNeYHr6i9kwZxR3GLu1FssARuFzQKEY2pob6dKo9oU4vEa8L | 4264000000 |
 | 0.0041 | Norwegian translation of webplate, footers, nav. menu | 88xhg3kueQyFAJm8HsPdaq7Hnr3UD26ccbdZ75ZyTCDPBUTJmwd153VZt6XKyWn2mb4NAMmCMhmSZFgNydi9Xncy3PrLC9m | 4100000000 |
 | 0.00406144783 | escapethe3RA Monero Observer maintenance (Spring 2022) | 87eg52PZdpR2HAWiWgLgZfDVM42bxAKFN8xVgLvPik336roGMqkCTZhKfGRfAzCdCmVfpSDpJDKSiJKFuckiSPuDUgyaZx6 | 4061447830 |

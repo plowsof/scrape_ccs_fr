@@ -7,8 +7,8 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.797409508084    
-Last Updated: 2023-06-22    
+Total overfunding: 244.857834732442    
+Last Updated: 2023-06-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -79,6 +79,7 @@ Last Updated: 2023-06-22
 | 0.098560005998 | Maintaining Flatpak package | 86FByDrMfxzYuLcm7jS3K6WdXegUpwxVMEw2GQxExTuMWDqiJSGVg8HhBRJfN3K39VRoTfkqmQxAFfEHoUBGKpayVJuX98B | 98560005998 |
 | 0.095505339748 | dangerousfreedom - wallet development 2 | 88e7WffYzBTF2GByBMFzW21RAojXY7XuEFo51gJkvxikAKk6qQoRhEhVDDd1zKAiKyGo35rUayGhFjoh8Z8cAagW53daJ4N | 95505339748 |
 | 0.082360854489 | xiphon full-time coding (3 months) | 8A9Dn1FS4sVWvVVhLJ3A5jYDzJPhv3t4GFjiwokbjzcxMW7vuXefFc9QchjhdXm5Bn13UACEFRTYKWJvZpcRwjFtStmLMA3 | 82360854489 |
+| 0.060425224358 | jeffro256 full-time development 2023Q3 | 892BxgqAeAhUNNcHEf3xR878M3b1FJ7R11V4AVFhW6REgWfUjXumgAr7i5v1D6oYT4MnjtE3E5MwFE2u8fLyA7yJ2XwUR6k | 60425224358 |
 | 0.06 | escapethe3RA Monero Observer maintenance (Winter 2022) | 85z5nQQ8hkuQcDavP5yG5miLdMNN9r9YKELiFeiMksHZAF1MD6GDRokUqMQsQRL6pGNnSiEoL1isdEvofQDys5mo6cKhEmK | 60000000000 |
 | 0.057387001971 | mj part time coding Q3 2021 | 88ev2daEhgJHDBg6Sf53Y46umtBpYJDba8NXLVNEpUMbKSNSHwNkDQuc23FTzDRwgNa1bx9KsJZaAH3QT7EnBw2HNdXSdDG | 57387001971 |
 | 0.050719957895 | v1docq47 - monerokon and monerotopia voiceover and working on xmr.ru | 87iD4Aqz8ZyiKXy5FWSu8BgeBM4NAMtiL5tdEgVTvVpFCukLapV7nduSYBr4g97fRh77vxDqFnndAWqcLjdsMfq5RZduR4R | 50719957895 |

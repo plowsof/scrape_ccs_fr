@@ -8,7 +8,7 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 ---
 
 Total overfunding: 244.882695164198    
-Last Updated: 2023-07-27    
+Last Updated: 2023-07-28    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |

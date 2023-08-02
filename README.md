@@ -7,7 +7,7 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.882695164198    
+Total overfunding: 244.893875150987    
 Last Updated: 2023-08-02    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -113,6 +113,7 @@ Last Updated: 2023-08-02
 | 0.008768405587 | Three Months of Translation Coordination | 89RsSRJCmYK8QQ9NQ3jyz15eWr5Sk4TF36APYAE9mvFt3YLcHhtj2aQTE7FWVmkkgL1xz5TEhCV67bEWMUB44DYA6ZTeMKg | 8768405587 |
 | 0.008456194953 | v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru | 84Ypq7gVCpNCagn5Qe8Srn6HZenzHZV487WgmjhvQdQfRm9rbyCEM9HGJd4FaXPbSJ912mK2jvgCnVSo4uGt6DhsJjWUNpm | 8456194953 |
 | 0.007952738292 | selsta part-time monero development (3 months) | 84CDb1nZBtv5Xtco1meargUzKi34C66ukM8bsnguo2GF2iWWRV7gyht7DT8Ls16c6h2HE27g1gKC1JoBFGDoLiNyR3ZqBaZ | 7952738292 |
+| 0.007413675901 | j-berman full-time development (3 months) | 849i3zLY4bJcZMbwvHLvquAdwd6e7yMHVZWLyhFmeAiAHuWThmzJcyuiPTyfAccQpShWNYPpTj2uKCqUG9ywkwwoDTEtukb | 7413675901 |
 | 0.00710565658 | Deploy and maintain Monero Casino. | 8Bso1wNFPb5FdTiyyWZYJUAUzffVZErzrj8czcVNFJhNZQraY3V8DxMK9WzPp9LGCS8r74EsdQgHvD3eZTbW6YZ3CYMSybM | 7105656580 |
 | 0.006923352686 | selsta part-time monero development (3 months) | 8BshSthu57FiWKxNopM9XkgBCeQKYawNGUhbJdHEmN9VBwUjJygyZzjdRanNa3AjFCP5Qc8VkXgxkB8uZbXXbS9WP5sEgmU | 6923352686 |
 | 0.006791841596 | mj part time coding Q4 2021 | 8BGGrUwwFWhYFn8N3RYmbmax9AkGGx84VJN9SnAq8HZ8hFmi5pbFM9mSqawhd6FP5CBPwoJXtpuQ1es2VwaQCkUbBsH6bYM | 6791841596 |
@@ -120,6 +121,7 @@ Last Updated: 2023-08-02
 | 0.004264 | Translation of Mastering Monero into Brazilian Portuguese | 85hePyhysyqbNKzafAAHodKNakqJRHqbBeA5zN9QHDX9iz5LNeYHr6i9kwZxR3GLu1FssARuFzQKEY2pob6dKo9oU4vEa8L | 4264000000 |
 | 0.0041 | Norwegian translation of webplate, footers, nav. menu | 88xhg3kueQyFAJm8HsPdaq7Hnr3UD26ccbdZ75ZyTCDPBUTJmwd153VZt6XKyWn2mb4NAMmCMhmSZFgNydi9Xncy3PrLC9m | 4100000000 |
 | 0.00406144783 | escapethe3RA Monero Observer maintenance (Spring 2022) | 87eg52PZdpR2HAWiWgLgZfDVM42bxAKFN8xVgLvPik336roGMqkCTZhKfGRfAzCdCmVfpSDpJDKSiJKFuckiSPuDUgyaZx6 | 4061447830 |
+| 0.003766310888 | Continued Feather Wallet development (3 months) | 82XVGjCP9r6DymXJZBsZZDTzutSKtHmrZboNUXKaVfB8EUvKP2sHHSAKJFkJqFTJAxHbYoFqYZAbL4zeeqLQQjbHTdFFZKV | 3766310888 |
 | 0.001789330025 | Funding for The Monero Moon Newsletter | 86LNRbuqPkc4twgdGfmuLd7oxMDKNsKLgbzvZtFJqnW7T1bLx51DtWZ5yc16fWy5SgQjH8e8WgiSv1zFo5nF5foDBwRYMZP | 1789330025 |
 | 0.00039084 | Monero Meme Site / Get Tipped For Monero Memes | 84P5orgL5RFfhBU6aVcqPZBKbawryRXcF8KZrpsaMrQ6jSpHyyYauZPHzujUPBhdggTjhjjHcVRrHS8mh1hBkDxW8CRVY3u | 390840000 |
 | 0.000238826099 | Continued Feather Wallet development (Q1 2021) | 89h16g3GwgDM9TK4pUymB9aPv4yDGD36ebWGS3sqcx8cjZnycC87o8PPVtrwLWyi5PMh1B2ZQukGuGwteAhVNewQBBX37Fb | 238826099 |

@@ -7,8 +7,8 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.893875150987    
-Last Updated: 2023-08-09    
+Total overfunding: 244.903875150987    
+Last Updated: 2023-08-10    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -102,6 +102,7 @@ Last Updated: 2023-08-09
 | 0.015771841022 | koe: Seraphis Wallet Proof-of-Concept 2 | 86RbtLYnCpFadcpXWy4yz1gGD98bzaKb8NtYH9DnPSiAVwUnkQrmGdLSqAMifmWSG5C9oSGDYGzAqEDLnR7PChVc4W12uHf | 15771841022 |
 | 0.014396165349 | Decentralizing Molly.im to support Monero payments | 868NwsDuPPKN9F6ERaWkcwga3zu57phfvMYJa8hJP2JR4csmujYjGaWFzTqZ9X5yxTiFpz9wFekjw2YiiYuvfJ4LG3btsmB | 14396165349 |
 | 0.014111327068 | Standalone AcceptXMR | 83maj1jseCwR6Tk9SVBvfT1amzxaukYT2NKam7W2Wm7cRJaVkBvz9NVfP3MAsurQpvDd4U9pZe4gydsyDRmog8WoPi6wwmm | 14111327068 |
+| 0.013766310888 | Continued Feather Wallet development (3 months) | 82XVGjCP9r6DymXJZBsZZDTzutSKtHmrZboNUXKaVfB8EUvKP2sHHSAKJFkJqFTJAxHbYoFqYZAbL4zeeqLQQjbHTdFFZKV | 13766310888 |
 | 0.013539386373 | vtnerd Full-Time 2023 Q3 | 8BFtUnczaXSLynvBKNLvAZTdvoW7aeCfHGvpsPseLN5SjQCiUgF8FRu4aq2DBcEQP8L8qBJViTHubGj6yzuty3dpQmWnD8j | 13539386373 |
 | 0.013427355312 | vtnerd Full-Time 2021 Q1 | 8A7mjcMpHks9XE99iocNHrLizbZEcCA2qhN6AiykGGFqEEqKJydgudmiQAWafDaZnvXsRTF5jPMmZhh7vqNp3DM3TYm8L1r | 13427355312 |
 | 0.012907988222 | tipxmr.live - a non-custodial livestream donation service for OBS | 8AxsR2Hs3SPWPQkayPnPXCcRX6sXfZsT7FsdwaaUiskjP5mpbbQsjshXHaKioeYsyfTzmS4gYaXw1DmE7dsa1fo454x7ziA | 12907988222 |
@@ -121,7 +122,6 @@ Last Updated: 2023-08-09
 | 0.004264 | Translation of Mastering Monero into Brazilian Portuguese | 85hePyhysyqbNKzafAAHodKNakqJRHqbBeA5zN9QHDX9iz5LNeYHr6i9kwZxR3GLu1FssARuFzQKEY2pob6dKo9oU4vEa8L | 4264000000 |
 | 0.0041 | Norwegian translation of webplate, footers, nav. menu | 88xhg3kueQyFAJm8HsPdaq7Hnr3UD26ccbdZ75ZyTCDPBUTJmwd153VZt6XKyWn2mb4NAMmCMhmSZFgNydi9Xncy3PrLC9m | 4100000000 |
 | 0.00406144783 | escapethe3RA Monero Observer maintenance (Spring 2022) | 87eg52PZdpR2HAWiWgLgZfDVM42bxAKFN8xVgLvPik336roGMqkCTZhKfGRfAzCdCmVfpSDpJDKSiJKFuckiSPuDUgyaZx6 | 4061447830 |
-| 0.003766310888 | Continued Feather Wallet development (3 months) | 82XVGjCP9r6DymXJZBsZZDTzutSKtHmrZboNUXKaVfB8EUvKP2sHHSAKJFkJqFTJAxHbYoFqYZAbL4zeeqLQQjbHTdFFZKV | 3766310888 |
 | 0.001789330025 | Funding for The Monero Moon Newsletter | 86LNRbuqPkc4twgdGfmuLd7oxMDKNsKLgbzvZtFJqnW7T1bLx51DtWZ5yc16fWy5SgQjH8e8WgiSv1zFo5nF5foDBwRYMZP | 1789330025 |
 | 0.00039084 | Monero Meme Site / Get Tipped For Monero Memes | 84P5orgL5RFfhBU6aVcqPZBKbawryRXcF8KZrpsaMrQ6jSpHyyYauZPHzujUPBhdggTjhjjHcVRrHS8mh1hBkDxW8CRVY3u | 390840000 |
 | 0.000238826099 | Continued Feather Wallet development (Q1 2021) | 89h16g3GwgDM9TK4pUymB9aPv4yDGD36ebWGS3sqcx8cjZnycC87o8PPVtrwLWyi5PMh1B2ZQukGuGwteAhVNewQBBX37Fb | 238826099 |

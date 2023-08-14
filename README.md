@@ -7,8 +7,8 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.903875150987    
-Last Updated: 2023-08-13    
+Total overfunding: 244.922795830989    
+Last Updated: 2023-08-14    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -90,6 +90,7 @@ Last Updated: 2023-08-13
 | 0.031000000001 | v1docq47 - video creation and translations into russian (february - july 2021) | 86CJ9sW7uz9HCYQWH11EBFCDETVqFJyhu6tqGpoW8ygsWKQzgM94RqEhL5kwvw72NK9EvAqgaQu5q1TJC5xRMqh6HJckWCF | 31000000001 |
 | 0.030143919925 | Translation Coordinator for the Monero Project | 83tn8MMYA9B26XXZKtijoy1vRvyhF7Psb8iR7VfA2vttB1Y5Q8ofswo3ZckEnW1nfSipoKWA6y11F6KXtBgBG56V74UUDcs | 30143919925 |
 | 0.027194974543 | New Animated Videos | 8BmwkoDQmo8Ts4Agu2HNfJhUEq9Y9TT6cdsX79XuSqdZ6MQHBNAS6vDQWGQs4cE3MH4oFPyhbJciVGVzVYBWr4pnNhrjoNV | 27194974543 |
+| 0.026334355902 | j-berman full-time development (3 months) | 849i3zLY4bJcZMbwvHLvquAdwd6e7yMHVZWLyhFmeAiAHuWThmzJcyuiPTyfAccQpShWNYPpTj2uKCqUG9ywkwwoDTEtukb | 26334355902 |
 | 0.025158809603 | j-berman full-time development (3 months) | 8Bu5Cruv6PkZvf2eGDdxhqFDA94owkA3acQBSdL3dnSnfsZPw3XSuFzDCQn76nuKP6eCgCEhZgPpv5D4YctkKyY8AAHZbPB | 25158809603 |
 | 0.02 | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles), Sound Money, Safe Mode (subtitles) and Monero GUI Guide to Dutch. | 8BfyK7Vf3DnUZcqzgGPrcgMt7Sbd5aGRYcExTT56HgUw9MrjjXJuUwFek9PHom4PsLiCm67eiJMeVLQ7iRownBw9GEL4uCL | 20000000000 |
 | 0.019029132923 | escapethe3RA Monero Observer maintenance (Spring 2023) | 84NcvD6R6AMAL4LyuBqYCsJXE2W9vN4tu1obFdpwGa3S3pw9BNsYgxDUyPyt9GmkXkJHvuVUjB4kr1LekpKvT8Yt9JCf7gq | 19029132923 |
@@ -102,7 +103,7 @@ Last Updated: 2023-08-13
 | 0.015771841022 | koe: Seraphis Wallet Proof-of-Concept 2 | 86RbtLYnCpFadcpXWy4yz1gGD98bzaKb8NtYH9DnPSiAVwUnkQrmGdLSqAMifmWSG5C9oSGDYGzAqEDLnR7PChVc4W12uHf | 15771841022 |
 | 0.014396165349 | Decentralizing Molly.im to support Monero payments | 868NwsDuPPKN9F6ERaWkcwga3zu57phfvMYJa8hJP2JR4csmujYjGaWFzTqZ9X5yxTiFpz9wFekjw2YiiYuvfJ4LG3btsmB | 14396165349 |
 | 0.014111327068 | Standalone AcceptXMR | 83maj1jseCwR6Tk9SVBvfT1amzxaukYT2NKam7W2Wm7cRJaVkBvz9NVfP3MAsurQpvDd4U9pZe4gydsyDRmog8WoPi6wwmm | 14111327068 |
-| 0.013766310888 | Continued Feather Wallet development (3 months) | 82XVGjCP9r6DymXJZBsZZDTzutSKtHmrZboNUXKaVfB8EUvKP2sHHSAKJFkJqFTJAxHbYoFqYZAbL4zeeqLQQjbHTdFFZKV | 13766310888 |
+| 0.013766310889 | Continued Feather Wallet development (3 months) | 82XVGjCP9r6DymXJZBsZZDTzutSKtHmrZboNUXKaVfB8EUvKP2sHHSAKJFkJqFTJAxHbYoFqYZAbL4zeeqLQQjbHTdFFZKV | 13766310889 |
 | 0.013539386373 | vtnerd Full-Time 2023 Q3 | 8BFtUnczaXSLynvBKNLvAZTdvoW7aeCfHGvpsPseLN5SjQCiUgF8FRu4aq2DBcEQP8L8qBJViTHubGj6yzuty3dpQmWnD8j | 13539386373 |
 | 0.013427355312 | vtnerd Full-Time 2021 Q1 | 8A7mjcMpHks9XE99iocNHrLizbZEcCA2qhN6AiykGGFqEEqKJydgudmiQAWafDaZnvXsRTF5jPMmZhh7vqNp3DM3TYm8L1r | 13427355312 |
 | 0.012907988222 | tipxmr.live - a non-custodial livestream donation service for OBS | 8AxsR2Hs3SPWPQkayPnPXCcRX6sXfZsT7FsdwaaUiskjP5mpbbQsjshXHaKioeYsyfTzmS4gYaXw1DmE7dsa1fo454x7ziA | 12907988222 |
@@ -114,7 +115,6 @@ Last Updated: 2023-08-13
 | 0.008768405587 | Three Months of Translation Coordination | 89RsSRJCmYK8QQ9NQ3jyz15eWr5Sk4TF36APYAE9mvFt3YLcHhtj2aQTE7FWVmkkgL1xz5TEhCV67bEWMUB44DYA6ZTeMKg | 8768405587 |
 | 0.008456194953 | v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru | 84Ypq7gVCpNCagn5Qe8Srn6HZenzHZV487WgmjhvQdQfRm9rbyCEM9HGJd4FaXPbSJ912mK2jvgCnVSo4uGt6DhsJjWUNpm | 8456194953 |
 | 0.007952738292 | selsta part-time monero development (3 months) | 84CDb1nZBtv5Xtco1meargUzKi34C66ukM8bsnguo2GF2iWWRV7gyht7DT8Ls16c6h2HE27g1gKC1JoBFGDoLiNyR3ZqBaZ | 7952738292 |
-| 0.007413675901 | j-berman full-time development (3 months) | 849i3zLY4bJcZMbwvHLvquAdwd6e7yMHVZWLyhFmeAiAHuWThmzJcyuiPTyfAccQpShWNYPpTj2uKCqUG9ywkwwoDTEtukb | 7413675901 |
 | 0.00710565658 | Deploy and maintain Monero Casino. | 8Bso1wNFPb5FdTiyyWZYJUAUzffVZErzrj8czcVNFJhNZQraY3V8DxMK9WzPp9LGCS8r74EsdQgHvD3eZTbW6YZ3CYMSybM | 7105656580 |
 | 0.006923352686 | selsta part-time monero development (3 months) | 8BshSthu57FiWKxNopM9XkgBCeQKYawNGUhbJdHEmN9VBwUjJygyZzjdRanNa3AjFCP5Qc8VkXgxkB8uZbXXbS9WP5sEgmU | 6923352686 |
 | 0.006791841596 | mj part time coding Q4 2021 | 8BGGrUwwFWhYFn8N3RYmbmax9AkGGx84VJN9SnAq8HZ8hFmi5pbFM9mSqawhd6FP5CBPwoJXtpuQ1es2VwaQCkUbBsH6bYM | 6791841596 |

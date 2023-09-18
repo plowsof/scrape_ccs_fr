@@ -7,8 +7,8 @@ The ccs + ccs.keys files are a daily updated view only version of the ccs wallet
 
 ---
 
-Total overfunding: 244.93013251818    
-Last Updated: 2023-09-17    
+Total overfunding: 244.940875528829    
+Last Updated: 2023-09-18    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 72. | Translation and review of GUI Wallet, monero-site, Monero Means Money (subtitles) and Sound Money, Safe Mode (subtitles) to Italian. | 87eAEiAd7TtFB1KTT9ioL16F93KCAcJr3BBKP8i2j5E6CTMrsmN7YxVPjzGcd7cvnBRwwewTEKAMaFDM3cxxntpvEeqvqEH | 72000000000000 |
@@ -96,6 +96,7 @@ Last Updated: 2023-09-17
 | 0.019029132923 | escapethe3RA Monero Observer maintenance (Spring 2023) | 84NcvD6R6AMAL4LyuBqYCsJXE2W9vN4tu1obFdpwGa3S3pw9BNsYgxDUyPyt9GmkXkJHvuVUjB4kr1LekpKvT8Yt9JCf7gq | 19029132923 |
 | 0.018760821979 | XMR BTC Atomic Swaps Desktop GUI - Continued development for 4 months | 878JQVQif9Kb7UQ4zQCNo3P6GA9FaWwXfAEmcUjMw1cFYdNVDv6hcfKj2wSmnem35kFWrZ6uggo7dP17VjgNZNXKUVMxe8k | 18760821979 |
 | 0.018751843084 | Funding for The Monero Moon Newsletter - 2022 | 8AvL9S3xzoeZxQWfWzVNYd2k5obumeZPgW8vQP4CFmGrMD2yYdjoJjgQh3Lgxe9WEiTyKzCvMs2BWFvmaxL6Uc5cAQkjPvG | 18751843084 |
+| 0.01807969784 | Boog900 full time work on Cuprate, the Rust Monero node (2 months) | 881KkMWvbhvHmKq66dduDo43kCVFruv7VSnwD5xdpoBn3hT6F5NUQvQF4p2MZMfaeXAky7icjSumFYKJARBSUbjrGLRt8Bx | 18079697840 |
 | 0.017627498427 | HotShop Point of Sale | 8AsCzwyer41jVFuo1E4JKVRhhptRdVhAfjoVai9nQKMp4encY1xq2j1ZwzHjJskrLr5S4uDQcZDfN4H9R7aDJZjB7LJvpcv | 17627498427 |
 | 0.017266272924 | escapethe3RA Monero Observer maintenance (3 months) | 88Bhq1jcRGjYNnGGcQEUnveTtaZVxKojPG6Z1hSPN5h8EALZmSougjaWx72DE5SgQHMq22s8Mss5hTpBfBSotyZkRUPpJZr | 17266272924 |
 | 0.016492873856 | koe: Seraphis Library Work | 82orUKEfV3uXH2Qu1MbQdRNFiBjgaptQZCJ7UXhbE8vTHhdQvE3F2BT6esJ5TwwU2A7ZsBvEyQ9FGLoki9sotAL3Lntt2h3 | 16492873856 |
@@ -115,7 +116,6 @@ Last Updated: 2023-09-17
 | 0.008768405587 | Three Months of Translation Coordination | 89RsSRJCmYK8QQ9NQ3jyz15eWr5Sk4TF36APYAE9mvFt3YLcHhtj2aQTE7FWVmkkgL1xz5TEhCV67bEWMUB44DYA6ZTeMKg | 8768405587 |
 | 0.008456194953 | v1docq47 - monerokon 2022 (part 2) and monerotopia 2023 voice over and working on xmr.ru | 84Ypq7gVCpNCagn5Qe8Srn6HZenzHZV487WgmjhvQdQfRm9rbyCEM9HGJd4FaXPbSJ912mK2jvgCnVSo4uGt6DhsJjWUNpm | 8456194953 |
 | 0.007952738292 | selsta part-time monero development (3 months) | 84CDb1nZBtv5Xtco1meargUzKi34C66ukM8bsnguo2GF2iWWRV7gyht7DT8Ls16c6h2HE27g1gKC1JoBFGDoLiNyR3ZqBaZ | 7952738292 |
-| 0.007336687191 | Boog900 full time work on Cuprate, the Rust Monero node (2 months) | 881KkMWvbhvHmKq66dduDo43kCVFruv7VSnwD5xdpoBn3hT6F5NUQvQF4p2MZMfaeXAky7icjSumFYKJARBSUbjrGLRt8Bx | 7336687191 |
 | 0.00710565658 | Deploy and maintain Monero Casino. | 8Bso1wNFPb5FdTiyyWZYJUAUzffVZErzrj8czcVNFJhNZQraY3V8DxMK9WzPp9LGCS8r74EsdQgHvD3eZTbW6YZ3CYMSybM | 7105656580 |
 | 0.006923352686 | selsta part-time monero development (3 months) | 8BshSthu57FiWKxNopM9XkgBCeQKYawNGUhbJdHEmN9VBwUjJygyZzjdRanNa3AjFCP5Qc8VkXgxkB8uZbXXbS9WP5sEgmU | 6923352686 |
 | 0.006791841596 | mj part time coding Q4 2021 | 8BGGrUwwFWhYFn8N3RYmbmax9AkGGx84VJN9SnAq8HZ8hFmi5pbFM9mSqawhd6FP5CBPwoJXtpuQ1es2VwaQCkUbBsH6bYM | 6791841596 |

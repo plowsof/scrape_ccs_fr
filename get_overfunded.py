@@ -10,11 +10,14 @@ import datetime
 
 node_address = "http://node.monerodevs.org:18089"
 local_rpc = "http://localhost:18084"
+#overfunding from ccs carried over 2023-11-03
+jet_fund = 244.947872104276
+
 def start_monero_rpc():
     global node_address, local_rpc
     rpc_args = [ 
         "./monero-wallet-rpc", 
-        "--wallet-file", "ccs",
+        "--wallet-file", "ccs2",
         "--rpc-bind-port", "18084",
         "--disable-rpc-login",
         "--password", "",
@@ -187,7 +190,7 @@ def edit_readme():
         for line in lines:
             # Check if the previous line was '---'
             if previous_line_dash:
-                file.write(f"\nTotal overfunding: {formatAmount(total, 12)}    \n")
+                file.write(f"\nTotal CCS2 overfunding: {formatAmount(total, 12)}    \n")
                 current_date = datetime.datetime.now().strftime("%Y-%m-%d")
                 file.write(f"Last Updated: {current_date}    \n")
                 file.write("| Amount | Title | Address | atomic units |\n")

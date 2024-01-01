@@ -10,10 +10,14 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 1.079    
+Total CCS2 overfunding: 1.45697119076    
 Last Updated: 2024-01-01    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 1. | selsta part-time monero development (3 months) | 864fV8atTZc7oVTbrx7sjHi3pmNf9HHi4HhY2oGhAiT8SkeohRHPsS7BoqmucYRzw74d53ZkYU4n324qwi8rd8q6JiM7E4q | 1000000000000 |
+| 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |
+| 0.113240309165 | CCS Coordinator | 84XuAJ4AqdxLAondyLd7viATUSEgAN7fmWxgYXvHRCNC6QuKCt6Aip6fbftMFobhnJCVKP6EfQ77F8U6JgoTFJjmB1SXSxe | 113240309165 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
+| 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
+| 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |

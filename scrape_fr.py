@@ -20,22 +20,23 @@ getmonero_url = "https://ccs.getmonero.org"
 irc_chanlist = [b"#monero-community"]
 botnick = b"n1oc"
 botpass = b""
-
-def send_msg(msg):
+#def send_msg(msg_list):
+def send_msgs(msg_list):
     global botnick, botpass, irc_chanlist
     server = "irc.libera.chat"
     #server = "irc.freenode.net"
     #this function will hang while waiting for someone to say hello
-    msg = bytes(msg, 'utf-8')
+    #msg = bytes(msg, 'utf-8')
     irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #defines the socket
     print("connecting to:"+server)
     irc.connect((server, 6667))                                                         #connects to the server
     irc.send(b"USER "+ botnick + b" "+ botnick + b" "+ botnick + b" :hello\n") #user authentication
     irc.send(b"NICK "+ botnick +b"\n")                            #sets nick
-    time.sleep(3)
+    #time.sleep(3)
     irc.send(b"PRIVMSG NICKSERV :IDENTIFY " + botnick + b" " + botpass + b"\n")
-    time.sleep(3)
+    #time.sleep(3)
     ddos = 0
+    text = b""
     for channel in irc_chanlist:
         ddos = 0
         irc.send(b"JOIN "+ channel +b"\n")  
@@ -43,14 +44,19 @@ def send_msg(msg):
             ddos += 1
             if ddos > 10000:
                 break
-            text=irc.recv(2040) 
+            text+=irc.recv(2040) 
             print(text)
-            if text.find(b'PING') != -1:                          #check if 'PING' is found
-                irc.send(b'PONG ' + text.split()[1] + b'\r\n') #returnes 'PONG' back to the server (prevents pinging out!)
-            if b"End of /NAMES list" in text:
-                irc.send(b"PRIVMSG " + channel + b" :" + msg + b"\n")
-                #print(b"PRIVMSG " + channel + b" :" + msg + b"\n")
-                #print("send msg")
+            if irc.recv(2040).find(b'PING') != -1:                          #check if 'PING' is found
+                irc.send(b'PONG ' + irc.recv(2040).split()[1] + b'\r\n') #returnes 'PONG' back to the server (prevents pinging out!)
+            if b"[m]" in text or b"now logged in as" in text or b"||" in text or b"binaryFate" in text or b"identified" in text:
+                print("Time to send message!")
+                for msg in msg_list:
+                    msg = bytes(msg, 'utf-8')
+                    irc.send(b"PRIVMSG " + channel + b" :" + msg + b"\n")
+                    print(b"PRIVMSG " + channel + b" :" + msg + b"\n")
+                    print("send msg")
+                    time.sleep(1)
+                time.sleep(60)
                 break
 
 def create_fresh_feed():
@@ -142,12 +148,12 @@ def new_address(address):
 def main():
     create_db_tables()
     resp = requests.get("https://ccs.getmonero.org/funding-required/")
-
+    #print(resp.content)
     soup = BeautifulSoup(resp.content, 'html.parser')
 
     soup = soup.find('section', class_='fund-required')
     ideas = soup.children
-
+    msg_list = []
     ideas_data = []
 
     # first come, first serve
@@ -156,11 +162,13 @@ def main():
         try:
             for item in idea.find_all('a'):
                 title = item.find('h3').text
+                #print(title)
                 link = item['href']
                 goal = item.find("span", class_="progress-number-goal").text
                 raised = item.find("span", class_="progress-number-funded").text
                 contributors = item.find("p", class_="date-list contributor").text.split()[0]
                 author = item.find("p", class_="author-list").text
+                #print(link)
                 resp2 = requests.get(f"https://ccs.getmonero.org{link}")
                 soup2 = BeautifulSoup(resp2.content, 'html.parser')
                 address = soup2.find('p', class_='string').text
@@ -168,9 +176,12 @@ def main():
                 if new_address(address):
                     msg = f"NEW: {title}"
                     add_to_rfeed(msg,link)
-                    send_msg(f"{title} has moved to funding! {link}")
+                    #send_msg(f"{title} has moved to funding! {link}")
+                    msg_list.append(f"{title} has moved to funding! {link}")
+                    #time.sleep(20)
                 else:
-                    if float(goal) < float(raised):
+                    print("not new")
+                    if float(goal) <= float(raised):
                         con = sqlite3.connect('ccs_addresses.db')
                         cur = con.cursor()
                         sql = """SELECT * FROM proposals 
@@ -183,7 +194,8 @@ def main():
                             cur.execute(sql, (address,))
                             msg = f"FUNDED: {title}"
                             add_to_rfeed(msg,link)
-                            send_msg(f"{title} is now fully funded! {link}")
+                            #send_msg(f"{title} is now fully funded! {link}")
+                            msg_list.append(f"{title} is now fully funded! {link} @luigi1111")
                         con.commit()
                         con.close()
                     else:
@@ -205,5 +217,7 @@ def main():
 
     with open(json_dump, "w+") as f:
         json.dump(ideas_data, f, indent=4, sort_keys=True)
+    if msg_list:
+        send_msgs(msg_list)
 
 main()

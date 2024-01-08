@@ -45,16 +45,21 @@ def send_msgs(msg_list):
             if ddos > 10000:
                 break
             text+=irc.recv(2040) 
-            print(text)
+            #print(text)
             if irc.recv(2040).find(b'PING') != -1:                          #check if 'PING' is found
+                print("PONG")
                 irc.send(b'PONG ' + irc.recv(2040).split()[1] + b'\r\n') #returnes 'PONG' back to the server (prevents pinging out!)
             if b"[m]" in text or b"now logged in as" in text or b"||" in text or b"binaryFate" in text or b"identified" in text:
                 print("Time to send message!")
                 for msg in msg_list:
-                    msg = bytes(msg, 'utf-8')
-                    irc.send(b"PRIVMSG " + channel + b" :" + msg + b"\n")
-                    print(b"PRIVMSG " + channel + b" :" + msg + b"\n")
+                    irc_msg = bytes(msg[0], 'utf-8')
+                    pprint.pprint(irc_msg)
+                    irc.send(b"PRIVMSG " + channel + b" :" + irc_msg + b"\n")
+                    print(b"PRIVMSG " + channel + b" :" + irc_msg + b"\n")
                     print("send msg")
+                    announce_success(msg[1])
+                    if "funded" in msg[0]:
+                        announce_funded(msg[1])
                     time.sleep(1)
                 time.sleep(60)
                 break
@@ -93,7 +98,8 @@ def create_db_tables():
     cursor_obj = connection_obj.cursor()
     sql_create_projects_table = """ CREATE TABLE IF NOT EXISTS proposals (
                                         address text PRIMARY KEY,
-                                        notify integer
+                                        notify integer,
+                                        announced integer
                                     ); """
     cursor_obj.execute(sql_create_projects_table)
     connection_obj.close()
@@ -122,6 +128,26 @@ def create_db_tables():
     # Close the connection
     connection_obj.close()
     '''
+def announce_funded(address):
+    print("at anounce funded")
+    con = sqlite3.connect('ccs_addresses.db')
+    cur = con.cursor()
+    sql = """UPDATE proposals SET notify = 1 WHERE address = ?"""
+    cur.execute(sql, (address,))
+    con.commit()
+    con.close()
+
+def announce_success(address):
+    print(address)
+    print("at announce success")
+    con = sqlite3.connect('ccs_addresses.db')
+    cur = con.cursor()
+    sql = """UPDATE proposals SET announced = 1 WHERE address = ?"""
+    cur.execute(sql, (address,))
+    con.commit()
+    con.close()
+    print(f"we successfully announced {address}")
+
 
 def new_address(address):
     con = sqlite3.connect('ccs_addresses.db')
@@ -130,19 +156,17 @@ def new_address(address):
     rows = cur.fetchall()
     rows = len(rows)
     if rows == 0:
-        print("A new address")
+        print(f"adding too seen: {address}")
         sqlite_insert_with_param = """INSERT INTO proposals 
-                          (address, notify)
-                          VALUES (?, ?);"""
-        cur.execute(sqlite_insert_with_param, (address,0))
+                          (address, notify, announced)
+                          VALUES (?, ?, ?);"""
+        cur.execute(sqlite_insert_with_param, (address,0,0))
         con.commit()
         con.close()
-
-        return True
-
-    print("seen before")
+        return True;
     con.commit()
     con.close()
+
 
 
 def main():
@@ -154,6 +178,8 @@ def main():
     soup = soup.find('section', class_='fund-required')
     ideas = soup.children
     msg_list = []
+    rss_list = []
+    rss_info = []
     ideas_data = []
 
     # first come, first serve
@@ -173,29 +199,52 @@ def main():
                 soup2 = BeautifulSoup(resp2.content, 'html.parser')
                 address = soup2.find('p', class_='string').text
                 link = getmonero_url + link
+                #[msg + address]
+                proposal_info = []
                 if new_address(address):
+                    print("new add fin")
                     msg = f"NEW: {title}"
-                    add_to_rfeed(msg,link)
+                    print("do we get here")
+                    rss_info.append(msg)
+                    rss_info.append(link)
+                    rss_list.insert(len(rss_list),rss_info)
+                    print("rss list?")
                     #send_msg(f"{title} has moved to funding! {link}")
-                    msg_list.append(f"{title} has moved to funding! {link}")
+                    proposal_info.append(f"{title} has moved to funding! {link}")
+                    proposal_info.append(address)
+                    print("time to err")
+                    msg_list.insert(len(msg_list),proposal_info)
+                    print("Yep")
                     #time.sleep(20)
                 else:
                     print("not new")
+                    #HAVE WE ANNOUNCED IT MOVED TO FUNDING YET?
+                    con = sqlite3.connect('ccs_addresses.db')
+                    cur = con.cursor()
+                    sql = """SELECT * FROM proposals 
+                            WHERE address = ?"""
+                    cur.execute(sql,(address,))
+                    rows = cur.fetchall()
+                    #annoucned
+                    if rows[0][2] == 0:
+                        print("not new and not announced yet")
+                        proposal_info.append(f"{title} has moved to funding! {link}")
+                        proposal_info.append(address)
+                        msg_list.insert(len(msg_list),proposal_info)
+
                     if float(goal) <= float(raised):
-                        con = sqlite3.connect('ccs_addresses.db')
-                        cur = con.cursor()
-                        sql = """SELECT * FROM proposals 
-                                WHERE address = ?"""
-                        cur.execute(sql,(address,))
-                        rows = cur.fetchall()
+                        print("Wut")
+                        pprint.pprint(rows[0][1])
+                        print("wut")
                         if rows[0][1] == 0:
-                            sql = """UPDATE proposals SET notify = 1 WHERE address = ?"""
-                            print(sql)
-                            cur.execute(sql, (address,))
                             msg = f"FUNDED: {title}"
-                            add_to_rfeed(msg,link)
+                            rss_info.append(msg)
+                            rss_info.append(link)
+                            rss_list.insert(len(rss_list),rss_info)
                             #send_msg(f"{title} is now fully funded! {link}")
-                            msg_list.append(f"{title} is now fully funded! {link} @luigi1111")
+                            proposal_info.append(f"{title} is now fully funded! {link} @luigi1111")
+                            proposal_info.append(address)
+                            msg_list.insert(len(msg_list),proposal_info)
                         con.commit()
                         con.close()
                     else:
@@ -219,5 +268,9 @@ def main():
         json.dump(ideas_data, f, indent=4, sort_keys=True)
     if msg_list:
         send_msgs(msg_list)
+    if rss_list:
+        for msg in rss_list:
+    	    add_to_rfeed(msg[0],msg[1])
+
 
 main()

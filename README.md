@@ -11,7 +11,7 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 ---
 
 Total CCS2 overfunding: 1.504959284859    
-Last Updated: 2024-03-04    
+Last Updated: 2024-03-05    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 1. | selsta part-time monero development (3 months) | 864fV8atTZc7oVTbrx7sjHi3pmNf9HHi4HhY2oGhAiT8SkeohRHPsS7BoqmucYRzw74d53ZkYU4n324qwi8rd8q6JiM7E4q | 1000000000000 |

@@ -10,7 +10,7 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 2.609106464311    
+Total CCS2 overfunding: 2.642548903121    
 Last Updated: 2024-04-24    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -22,6 +22,7 @@ Last Updated: 2024-04-24
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |
 | 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
+| 0.03344243881 | ANONERO version 1.0 | 8BURayKUr4eJgVLqEL1wE7EVZ5hd59izrec5GBxdpQvjiAZxeYr8KZi6h4mexZ2bUEDRMZ3arDGM1Z8iJy1wKts38k7SLqQ | 33442438810 |
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |

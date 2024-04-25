@@ -10,8 +10,8 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 2.642548903121    
-Last Updated: 2024-04-24    
+Total CCS2 overfunding: 2.648576081217    
+Last Updated: 2024-04-25    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 1. | selsta part-time monero development (3 months) | 864fV8atTZc7oVTbrx7sjHi3pmNf9HHi4HhY2oGhAiT8SkeohRHPsS7BoqmucYRzw74d53ZkYU4n324qwi8rd8q6JiM7E4q | 1000000000000 |
@@ -28,5 +28,6 @@ Last Updated: 2024-04-24
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
+| 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |

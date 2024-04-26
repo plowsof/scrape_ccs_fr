@@ -10,11 +10,12 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 88.068576081217    
-Last Updated: 2024-04-25    
+Total CCS2 overfunding: 99.305748391653    
+Last Updated: 2024-04-26    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
-| 85.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 85420000000000 |
+| 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
+| 1.237172310436 | Full-Chain Membership Proofs + Spend Authorization + Linkability Development CCS | 84dH2du7gUELZEQCb3YfneXeWiuLq1xsPiyLV5GRzSSbMryBxSnPbGsD6npWMhftNqJt3Gn5enGH3job7n4SJvoTKcNKBci | 1237172310436 |
 | 1. | selsta part-time monero development (3 months) | 864fV8atTZc7oVTbrx7sjHi3pmNf9HHi4HhY2oGhAiT8SkeohRHPsS7BoqmucYRzw74d53ZkYU4n324qwi8rd8q6JiM7E4q | 1000000000000 |
 | 0.882306040975 | Rucknium Statistical Research | 86FE2Ftek5kDTeviY94K4T8xBbecFjbdvVqr2rZE7qTQ2ep9xWni6UMej6jNogVyC24gQFHWowRYXee5VaGTG8ZLVgaDpzH | 882306040975 |
 | 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |

@@ -11,7 +11,7 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 ---
 
 Total CCS2 overfunding: 99.305748391653    
-Last Updated: 2024-04-30    
+Last Updated: 2024-05-01    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |

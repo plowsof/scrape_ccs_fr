@@ -6,7 +6,6 @@ import os
 import json 
 from feedgen.feed import FeedGenerator
 import pickle
-import socket
 import time
 
 rss_host = "https://getwishlisted.xyz/"
@@ -17,52 +16,25 @@ rss_obj = "feed.obj"
 json_dump = "/var/www/html/proposals.json"
 getmonero_url = "https://ccs.getmonero.org"
 #irc message
-irc_chanlist = [b"#monero-community"]
-botnick = b"n1oc"
-botpass = b""
-#def send_msg(msg_list):
+webhook_endpoint="http://theurl dot com /message"
+webhook_password="hunter2"
+
 def send_msgs(msg_list):
-    global botnick, botpass, irc_chanlist
-    server = "irc.libera.chat"
-    #server = "irc.freenode.net"
-    #this function will hang while waiting for someone to say hello
-    #msg = bytes(msg, 'utf-8')
-    irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #defines the socket
-    print("connecting to:"+server)
-    irc.connect((server, 6667))                                                         #connects to the server
-    irc.send(b"USER "+ botnick + b" "+ botnick + b" "+ botnick + b" :hello\n") #user authentication
-    irc.send(b"NICK "+ botnick +b"\n")                            #sets nick
-    #time.sleep(3)
-    irc.send(b"PRIVMSG NICKSERV :IDENTIFY " + botnick + b" " + botpass + b"\n")
-    #time.sleep(3)
-    ddos = 0
-    text = b""
-    for channel in irc_chanlist:
-        ddos = 0
-        irc.send(b"JOIN "+ channel +b"\n")  
-        while 1:
-            ddos += 1
-            if ddos > 10000:
-                break
-            text+=irc.recv(2040) 
-            #print(text)
-            if irc.recv(2040).find(b'PING') != -1:                          #check if 'PING' is found
-                print("PONG")
-                irc.send(b'PONG ' + irc.recv(2040).split()[1] + b'\r\n') #returnes 'PONG' back to the server (prevents pinging out!)
-            if b"[m]" in text or b"now logged in as" in text or b"||" in text or b"binaryFate" in text or b"identified" in text:
-                print("Time to send message!")
-                for msg in msg_list:
-                    irc_msg = bytes(msg[0], 'utf-8')
-                    pprint.pprint(irc_msg)
-                    irc.send(b"PRIVMSG " + channel + b" :" + irc_msg + b"\n")
-                    print(b"PRIVMSG " + channel + b" :" + irc_msg + b"\n")
-                    print("send msg")
-                    announce_success(msg[1])
-                    if "funded" in msg[0]:
-                        announce_funded(msg[1])
-                    time.sleep(1)
-                time.sleep(60)
-                break
+    global webhook_password, webhook_endpoint
+    headers = {'Content-type': 'application/json', 'Accept': 'text/plain'}
+
+    for msg in msg_list:
+        data = {
+            'message': msg[0],
+            'password': webhook_password
+        }
+        r = requests.post(webhook_endpoint, data=json.dumps(data), headers=headers)
+        if r.status_code == 200:
+            announce_success(msg[1])
+            if "funded" in msg[0]:
+                announce_funded(msg[1])
+
+        time.sleep(1)
 
 def create_fresh_feed():
     global rss_self, rss_dir, rss_obj

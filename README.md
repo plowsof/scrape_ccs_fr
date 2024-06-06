@@ -10,8 +10,8 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 100.182053407691    
-Last Updated: 2024-06-05    
+Total CCS2 overfunding: 100.182187107691    
+Last Updated: 2024-06-06    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -30,7 +30,7 @@ Last Updated: 2024-06-05
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
-| 0.01015630053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10156300530 |
+| 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
 | 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |

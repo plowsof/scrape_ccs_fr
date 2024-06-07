@@ -10,8 +10,8 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 100.182187107691    
-Last Updated: 2024-06-06    
+Total CCS2 overfunding: 100.185327702301    
+Last Updated: 2024-06-07    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -35,4 +35,5 @@ Last Updated: 2024-06-06
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
 | 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
+| 0.00314059461 | v1docq47 - monerotopia 2023 (part 3) and monerokon 2023 (part 2) voiceovers and working on xmr.ru | 8AJ72WRpKwcdNzjmF2WHcfgy7QfrFAZbQb6HNG2DYoxcNDhQbB5f7sHK1NgzN2tchua5q39ooa9f54fZmhpGvpTVJdsLw5E | 3140594610 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |

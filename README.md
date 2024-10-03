@@ -10,7 +10,7 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 106.630252276705    
+Total CCS2 overfunding: 106.63192770803    
 Last Updated: 2024-10-03    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -44,3 +44,4 @@ Last Updated: 2024-10-03
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
+| 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |

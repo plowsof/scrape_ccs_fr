@@ -10,7 +10,7 @@ The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wal
 
 ---
 
-Total CCS2 overfunding: 123.195762267437    
+Total CCS2 overfunding: 123.605762267437    
 Last Updated: 2024-10-17    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ Last Updated: 2024-10-17
 | 0.882306040975 | Rucknium Statistical Research | 86FE2Ftek5kDTeviY94K4T8xBbecFjbdvVqr2rZE7qTQ2ep9xWni6UMej6jNogVyC24gQFHWowRYXee5VaGTG8ZLVgaDpzH | 882306040975 |
 | 0.75 | ofrnxmr feat BasicSwapDEX - take over the world pt 2 | 85vMkfdDSHLRwMfnfEs93HEyKZvUo5RpzXaUKW3WXXQ6CfSy3JPxuJ7T5sPttuggqJ29oJaP6BJi2YSgkxHno9nUGk4goeq | 750000000000 |
 | 0.746884983535 | j-berman full-time development (3 months) | 89RTEpVRsAh7dfZjBDTjKN8v7t9Y6shUtKCM2bZgoCsxSLG74y5S7T8fBNB2Yh4VbDKhJi2vgCpi3gmmTZME2BRy3kWHQAL | 746884983535 |
+| 0.41 | Carrot Spec Peer Review | 88rbpySE3jF1taKZuM8yqDEZa6aMxsshrHWdnwYnWS7R67q8uWyQWqqbGGCDs65L8EdLdDDHsjEzc5U7tXR9h2u3NRMubDB | 410000000000 |
 | 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |
 | 0.119263731973 | selsta part-time monero development (3 months) | 86sFCAKqtfeWfMnYSu44A5ZyELyy5YyoeTus5388m1wqdJtUeQZEgS39J4ggrBxzaJ7ZWniF3WWq2hSvmctDCiqj5SwnD9H | 119263731973 |

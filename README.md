@@ -8,6 +8,9 @@ The overfunded balance of the original CCS1 wallet to be carried over:
 
 The ccs2 + ccs2.keys files are a daily updated view only version of the ccs2 wallet (with titles added to addresses of existing/new ccs proposals). You can download it and view it on e.g. the Monero GUI. The list below is also updated daily.
 
+Overfunding given to proposor: (one off)
+- SNeedlewoods-01_part-time dev work (1 month)
+
 ---
 
 Total CCS2 overfunding: 123.605762267437    

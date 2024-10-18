@@ -13,6 +13,9 @@ local_rpc = "http://localhost:18084"
 #overfunding from ccs carried over 2023-11-03
 jet_fund = 244.947872104276
 
+refunded = ["88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx"]
+refunded_piconeros = 0
+
 def start_monero_rpc():
     global node_address, local_rpc
     rpc_args = [ 
@@ -85,6 +88,7 @@ def formatAmount(amount,units):
     return s
 
 def main():
+    global refunded, refunded_piconeros
     data = requests.get("https://ccs.getmonero.org/index.php/projects")
 
     the_list = data.json()
@@ -170,7 +174,11 @@ def main():
             "amount":atomic_units,
             "address": x
             }
-            overfunded.append(info)
+            if x not in refunded:
+                overfunded.append(info)
+            else:
+                total-=atomic_units
+                refunded_piconeros+=atomic_units
 
     overfunded = sorted(overfunded, reverse=True, key=lambda x: float(x['amount']))
     return overfunded, total

@@ -13,12 +13,11 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 123.605762267437    
+Total CCS2 overfunding: 107.120262267437    
 Last Updated: 2024-10-18    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
-| 16.4855 | SNeedlewoods-01_part-time dev work (1 month) | 88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx | 16485500000000 |
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.50006938 | Revuo Monero maintenance (2024 Q4) | 83fTQe9ggkLfV7Tg4MqBDRUifj1thhQ8hZDsusL3GCYbVMxyUhqiGpgQPg9pv58iDJj1tiHau2W2PL1PnJ6DhZEVQcAdr3i | 1500069380000 |
 | 1.26891909562 | From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem | 84p4Zc86eqtTXNZmeAEPp9Mo7Q1ksajrdYcSbMJ2cAuDTEvUaQj3uadT6DboK54HfhBPCx2rPzZJmhXdkL2wz7u683tQk8S | 1268919095620 |

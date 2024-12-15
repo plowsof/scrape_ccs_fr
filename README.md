@@ -14,7 +14,7 @@ Overfunding given to proposor: (one off)
 ---
 
 Total CCS2 overfunding: 123.832961531907    
-Last Updated: 2024-12-14    
+Last Updated: 2024-12-15    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |

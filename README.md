@@ -13,13 +13,15 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 123.851123770685    
+Total CCS2 overfunding: 130.026523621138    
 Last Updated: 2025-01-07    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
 | 16.4855 | SNeedlewoods-01_part-time dev work (1 month) | 88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx | 16485500000000 |
+| 4.283978233144 | j-berman full-time development (4 months) | 82eLnESqg8t2iwCt5xPtgx7381Y4hoy2NWbBwE3PT9r5JqGd1c1J2NpAghxuhjgBJMQSd9poGtXgMAzt4pjVUq81B1NCz1x | 4283978233144 |
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
+| 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |
 | 1.50006938 | Revuo Monero maintenance (2024 Q4) | 83fTQe9ggkLfV7Tg4MqBDRUifj1thhQ8hZDsusL3GCYbVMxyUhqiGpgQPg9pv58iDJj1tiHau2W2PL1PnJ6DhZEVQcAdr3i | 1500069380000 |
 | 1.26891909562 | From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem | 84p4Zc86eqtTXNZmeAEPp9Mo7Q1ksajrdYcSbMJ2cAuDTEvUaQj3uadT6DboK54HfhBPCx2rPzZJmhXdkL2wz7u683tQk8S | 1268919095620 |
 | 1.237172310436 | Full-Chain Membership Proofs + Spend Authorization + Linkability Development CCS | 84dH2du7gUELZEQCb3YfneXeWiuLq1xsPiyLV5GRzSSbMryBxSnPbGsD6npWMhftNqJt3Gn5enGH3job7n4SJvoTKcNKBci | 1237172310436 |

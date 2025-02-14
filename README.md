@@ -13,7 +13,7 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 130.621879193743    
+Total CCS2 overfunding: 130.634548027107    
 Last Updated: 2025-02-14    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -47,6 +47,7 @@ Last Updated: 2025-02-14
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |
 | 0.016553024682 | hinto-janai full-time work on Cuprate (3 months) | 8AHTpvaWU8RHzmHgaisMQdAiFfbfwNGgugBEsSdysydUgcocMUkH8Y3568d9WUDvCwbrs4NyHKQfPeAvdUhEUXCxTWMVeqg | 16553024682 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
+| 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |

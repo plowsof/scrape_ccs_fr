@@ -13,12 +13,13 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 130.634548027107    
+Total CCS2 overfunding: 138.079979289699    
 Last Updated: 2025-02-15    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
 | 16.4855 | SNeedlewoods-01_part-time dev work (1 month) | 88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx | 16485500000000 |
+| 7.445431262592 | XMRChat - a service for content creators to receive messages and tips in Monero. | 8BwQ4oLXxcAAym2fqBtTKoF6qSmWfs8tbcQQ9GsdG5aBGLBtmab7CWtfDVphfcvunyTkw9LdTvri76mmS3Fvn79hJE33EHM | 7445431262592 |
 | 4.87041783759 | j-berman full-time development (4 months) | 82eLnESqg8t2iwCt5xPtgx7381Y4hoy2NWbBwE3PT9r5JqGd1c1J2NpAghxuhjgBJMQSd9poGtXgMAzt4pjVUq81B1NCz1x | 4870417837590 |
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |

@@ -13,7 +13,7 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.079979289699    
+Total CCS2 overfunding: 138.27746245829    
 Last Updated: 2025-03-02    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -37,6 +37,8 @@ Last Updated: 2025-03-02
 | 0.119263731973 | selsta part-time monero development (3 months) | 86sFCAKqtfeWfMnYSu44A5ZyELyy5YyoeTus5388m1wqdJtUeQZEgS39J4ggrBxzaJ7ZWniF3WWq2hSvmctDCiqj5SwnD9H | 119263731973 |
 | 0.113240309165 | CCS Coordinator | 84XuAJ4AqdxLAondyLd7viATUSEgAN7fmWxgYXvHRCNC6QuKCt6Aip6fbftMFobhnJCVKP6EfQ77F8U6JgoTFJjmB1SXSxe | 113240309165 |
 | 0.10696243161 | v1docq47 - monerotopia 2023 (part 3) and monerokon 2023 (part 2) voiceovers and working on xmr.ru | 8AJ72WRpKwcdNzjmF2WHcfgy7QfrFAZbQb6HNG2DYoxcNDhQbB5f7sHK1NgzN2tchua5q39ooa9f54fZmhpGvpTVJdsLw5E | 106962431610 |
+| 0.104179033935 | vtnerd full-time 2025 q1/q2 | 83jTe1UCUgu6jyLWVY8SEEAQUB7NxXjZHFXoakGmJ6aWiQJpZhWWgqmA7kNZrj81nWPeKVmFDEmZ4PTLu1XN7YvzJqensoL | 104179033935 |
+| 0.093304134656 | Boog900 full time work on Cuprate (3 months) + January | 84nRC8w76N8F4PZMyKNFfS4WWx9ujPNrNSoy5nhY568gevN3yfwn6yB7RcE4YAmKLaPitpzRAe4x67Fv8VWhBqrV4FQySRB | 93304134656 |
 | 0.078334559407 | CCS Coordinator | 82dD5oYRXatgVHCNWEXyrWGDJHbkUiJzY8WNPApPfBmaEtWSDdJMtrU6HQDTwNeM42TGbJtQHhm9JZz7zuneLRc5NEoanLS | 78334559407 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |

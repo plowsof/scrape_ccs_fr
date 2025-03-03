@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.27746245829    
-Last Updated: 2025-03-02    
+Total CCS2 overfunding: 138.392210990032    
+Last Updated: 2025-03-03    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -35,6 +35,7 @@ Last Updated: 2025-03-02
 | 0.198182003382 | Audit monero-serai and monero-wallet | 87jJDB4qUzTeXewTS8s19wZYYNPjq14UBirAnBXTRsHQHRjgynptSHtbX14Hu4efD3VvnZCzaZuR6f32K1LvUZzXLv4Qu5G | 198182003382 |
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |
 | 0.119263731973 | selsta part-time monero development (3 months) | 86sFCAKqtfeWfMnYSu44A5ZyELyy5YyoeTus5388m1wqdJtUeQZEgS39J4ggrBxzaJ7ZWniF3WWq2hSvmctDCiqj5SwnD9H | 119263731973 |
+| 0.114748531742 | hinto-janai full-time work (3 months) | 84ANoXBHUBkJ5rXupAtN6dJvgA8U3vEBZ5LcWr9rFbg6Uo2eVacPGJQc5Umn4ETPVSY5kS5D8tfUQMZ4x6YYXsSwFcvsNnA | 114748531742 |
 | 0.113240309165 | CCS Coordinator | 84XuAJ4AqdxLAondyLd7viATUSEgAN7fmWxgYXvHRCNC6QuKCt6Aip6fbftMFobhnJCVKP6EfQ77F8U6JgoTFJjmB1SXSxe | 113240309165 |
 | 0.10696243161 | v1docq47 - monerotopia 2023 (part 3) and monerokon 2023 (part 2) voiceovers and working on xmr.ru | 8AJ72WRpKwcdNzjmF2WHcfgy7QfrFAZbQb6HNG2DYoxcNDhQbB5f7sHK1NgzN2tchua5q39ooa9f54fZmhpGvpTVJdsLw5E | 106962431610 |
 | 0.104179033935 | vtnerd full-time 2025 q1/q2 | 83jTe1UCUgu6jyLWVY8SEEAQUB7NxXjZHFXoakGmJ6aWiQJpZhWWgqmA7kNZrj81nWPeKVmFDEmZ4PTLu1XN7YvzJqensoL | 104179033935 |

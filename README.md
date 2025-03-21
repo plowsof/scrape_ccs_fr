@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.422149610032    
-Last Updated: 2025-03-20    
+Total CCS2 overfunding: 138.439464200937    
+Last Updated: 2025-03-21    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -50,6 +50,7 @@ Last Updated: 2025-03-20
 | 0.02 | acx part-time work on Monfluo (3 months) | 87mMkqBN3qs1V1mL292Wowe1otymh9vX7YDE4DnhWKu6ThYUgsW9bJGDpDTGLjjd6x8mGGzAhnoSaGqZJA27PxZsCxW8k8S | 20000000000 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |
+| 0.017314590905 | v1docq47 - monerokon 2024 voiceovers and working on xmr.ru | 89Ck8PdRvkAMUp6mJw5ajyNxHWvif5KUiFPk3aXcEnUWGLyyd69rZz47CH2igxBGpGaa5odfsVHg6G26xg1w7SQAFSwjqkq | 17314590905 |
 | 0.016553024682 | hinto-janai full-time work on Cuprate (3 months) | 8AHTpvaWU8RHzmHgaisMQdAiFfbfwNGgugBEsSdysydUgcocMUkH8Y3568d9WUDvCwbrs4NyHKQfPeAvdUhEUXCxTWMVeqg | 16553024682 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |

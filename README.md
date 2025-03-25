@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.549333784086    
-Last Updated: 2025-03-24    
+Total CCS2 overfunding: 138.556233963136    
+Last Updated: 2025-03-25    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -59,6 +59,7 @@ Last Updated: 2025-03-24
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
+| 0.00690017905 | plowsof CCS Coordinator | 83X8oZmX78WHeq9YD8sziWFmz1RUKS73C8Cxdxcn4pnjNu62jAkjr1ThkSMhahhpezbcCd2yriVV9jHv5dzr4YnYUuBnoRo | 6900179050 |
 | 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
 | 0.005002155482 | 0xfffc full-time C++ development (3 months, Jan, Feb, Mar, 2025) | 89CYPC8JLTMPCJqTYpr6BTYarCCD6qNXQZxP5Sz19A4KZGKg7CZ5cE4PkNM4rPKWNge5vK2JvCbv54mAAq831eXG3f4bTHN | 5002155482 |

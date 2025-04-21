@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.613393843136    
-Last Updated: 2025-04-20    
+Total CCS2 overfunding: 138.658552510596    
+Last Updated: 2025-04-21    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -45,6 +45,7 @@ Last Updated: 2025-04-20
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
 | 0.05715988 | Revuo Monero maintenance (2025 Q2) | 88sDCmPMEhMWKPitFXyJ9hSeFESwE6SAVCTrPo3WiRySiA3J8352Zcx2BTS7pVTb9G3pmxPJ2FpSy89M9nj5nQJ32DWgQA6 | 57159880000 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |
+| 0.04515866746 | tobtoht full-time feather + core development (3 months) | 85Q31orbGjKizcKYJGS1tkHv2AdftSQbWZ9ytT9FzYrGWhc3ZNC72XX81Zkd5e5DjvSxkfAFRffGaUZowGzNJ5maKm1dhpe | 45158667460 |
 | 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
 | 0.03344243881 | ANONERO version 1.0 | 8BURayKUr4eJgVLqEL1wE7EVZ5hd59izrec5GBxdpQvjiAZxeYr8KZi6h4mexZ2bUEDRMZ3arDGM1Z8iJy1wKts38k7SLqQ | 33442438810 |
 | 0.029017261088 | Offline Signing Library for XmrSigner to Production | 86qgqRXz138C1juhARumGibPjKE1btvYJ9DWnLSDtPzx1BSxtVJL7qLd3J6owEhr3H67RZgYDeNoGBumxBVFn1yqKbKztSE | 29017261088 |

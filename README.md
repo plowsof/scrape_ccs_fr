@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.658552510596    
-Last Updated: 2025-04-22    
+Total CCS2 overfunding: 138.658929751053    
+Last Updated: 2025-04-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -69,3 +69,4 @@ Last Updated: 2025-04-22
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |
+| 0.000377240457 | j-berman full-time development (4 months) | 86V9P7JcpqES4tpFBqh4XSBhKvG2ZUusiZ5NucnLn26R7QLxfSGHcC7btZYVM9vHvDhWN54JDzB5MhXGfU5a5N1q9KhjQHA | 377240457 |

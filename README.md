@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 138.658929751053    
-Last Updated: 2025-04-23    
+Total CCS2 overfunding: 138.775923521718    
+Last Updated: 2025-04-24    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -36,6 +36,7 @@ Last Updated: 2025-04-23
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |
 | 0.124687151742 | hinto-janai full-time work (3 months) | 84ANoXBHUBkJ5rXupAtN6dJvgA8U3vEBZ5LcWr9rFbg6Uo2eVacPGJQc5Umn4ETPVSY5kS5D8tfUQMZ4x6YYXsSwFcvsNnA | 124687151742 |
 | 0.119263731973 | selsta part-time monero development (3 months) | 86sFCAKqtfeWfMnYSu44A5ZyELyy5YyoeTus5388m1wqdJtUeQZEgS39J4ggrBxzaJ7ZWniF3WWq2hSvmctDCiqj5SwnD9H | 119263731973 |
+| 0.117371011122 | j-berman full-time development (4 months) | 86V9P7JcpqES4tpFBqh4XSBhKvG2ZUusiZ5NucnLn26R7QLxfSGHcC7btZYVM9vHvDhWN54JDzB5MhXGfU5a5N1q9KhjQHA | 117371011122 |
 | 0.113240309165 | CCS Coordinator | 84XuAJ4AqdxLAondyLd7viATUSEgAN7fmWxgYXvHRCNC6QuKCt6Aip6fbftMFobhnJCVKP6EfQ77F8U6JgoTFJjmB1SXSxe | 113240309165 |
 | 0.109869583149 | selsta part-time monero development (3 months) (16) | 8AXB1kmi6ZzEEJcX9j688jbysu1YySKLpbTpNSKCvyd72yZQxsMZ11Efxx3Sp6qnS1iNuVgdxkxBJWozqnTKRXBZT9t4xMA | 109869583149 |
 | 0.10696243161 | v1docq47 - monerotopia 2023 (part 3) and monerokon 2023 (part 2) voiceovers and working on xmr.ru | 8AJ72WRpKwcdNzjmF2WHcfgy7QfrFAZbQb6HNG2DYoxcNDhQbB5f7sHK1NgzN2tchua5q39ooa9f54fZmhpGvpTVJdsLw5E | 106962431610 |
@@ -69,4 +70,3 @@ Last Updated: 2025-04-23
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |
-| 0.000377240457 | j-berman full-time development (4 months) | 86V9P7JcpqES4tpFBqh4XSBhKvG2ZUusiZ5NucnLn26R7QLxfSGHcC7btZYVM9vHvDhWN54JDzB5MhXGfU5a5N1q9KhjQHA | 377240457 |

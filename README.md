@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 139.18531850759    
-Last Updated: 2025-06-30    
+Total CCS2 overfunding: 139.18642850759    
+Last Updated: 2025-07-01    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -30,8 +30,8 @@ Last Updated: 2025-06-30
 | 0.882306040975 | Rucknium Statistical Research | 86FE2Ftek5kDTeviY94K4T8xBbecFjbdvVqr2rZE7qTQ2ep9xWni6UMej6jNogVyC24gQFHWowRYXee5VaGTG8ZLVgaDpzH | 882306040975 |
 | 0.75 | ofrnxmr feat BasicSwapDEX - take over the world pt 2 | 85vMkfdDSHLRwMfnfEs93HEyKZvUo5RpzXaUKW3WXXQ6CfSy3JPxuJ7T5sPttuggqJ29oJaP6BJi2YSgkxHno9nUGk4goeq | 750000000000 |
 | 0.746884983535 | j-berman full-time development (3 months) | 89RTEpVRsAh7dfZjBDTjKN8v7t9Y6shUtKCM2bZgoCsxSLG74y5S7T8fBNB2Yh4VbDKhJi2vgCpi3gmmTZME2BRy3kWHQAL | 746884983535 |
+| 0.410492060065 | selsta part-time monero development (3 months) (17) | 84WkBzcjxLRTBsTJsVAvj7SeRmyGeWCXYB5K4N94Azr1Qsecxj9YbkWQG4ViUpgpkrhUGQntWvKHFf94GqR1PM8nJd2ZwEJ | 410492060065 |
 | 0.41 | Carrot Spec Peer Review | 88rbpySE3jF1taKZuM8yqDEZa6aMxsshrHWdnwYnWS7R67q8uWyQWqqbGGCDs65L8EdLdDDHsjEzc5U7tXR9h2u3NRMubDB | 410000000000 |
-| 0.409382060065 | selsta part-time monero development (3 months) (17) | 84WkBzcjxLRTBsTJsVAvj7SeRmyGeWCXYB5K4N94Azr1Qsecxj9YbkWQG4ViUpgpkrhUGQntWvKHFf94GqR1PM8nJd2ZwEJ | 409382060065 |
 | 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |
 | 0.198182003382 | Audit monero-serai and monero-wallet | 87jJDB4qUzTeXewTS8s19wZYYNPjq14UBirAnBXTRsHQHRjgynptSHtbX14Hu4efD3VvnZCzaZuR6f32K1LvUZzXLv4Qu5G | 198182003382 |
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |

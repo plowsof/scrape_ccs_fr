@@ -13,13 +13,15 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 139.214409397839    
+Total CCS2 overfunding: 157.283910929749    
 Last Updated: 2025-08-18    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
 | 16.4855 | SNeedlewoods-01_part-time dev work (1 month) | 88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx | 16485500000000 |
+| 12.041538657695 | Rucknium Research II | 89thancVNcXHzLNGRRBRxReU96MpJcNd6PNFJn2bHLDwihrfr2vthvtB6c1Ezgo8dRh4gzoujAFWYJ2qH9awzM4gKjQiKP6 | 12041538657695 |
 | 7.445431262592 | XMRChat - a service for content creators to receive messages and tips in Monero. | 8BwQ4oLXxcAAym2fqBtTKoF6qSmWfs8tbcQQ9GsdG5aBGLBtmab7CWtfDVphfcvunyTkw9LdTvri76mmS3Fvn79hJE33EHM | 7445431262592 |
+| 6.014848361112 | Revuo Monero maintenance (2025 Q3) | 8B7TUPbLE35boiQLafMtT8j54MbX6gA8pgzbLWJs2x7DHLccbtJyZ1pHWYNjUibwC96GAoRwivNvNLRCxwaWH7asUFNnaYq | 6014848361112 |
 | 4.87041783759 | j-berman full-time development (4 months) | 82eLnESqg8t2iwCt5xPtgx7381Y4hoy2NWbBwE3PT9r5JqGd1c1J2NpAghxuhjgBJMQSd9poGtXgMAzt4pjVUq81B1NCz1x | 4870417837590 |
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |
@@ -59,6 +61,7 @@ Last Updated: 2025-08-18
 | 0.017314590905 | v1docq47 - monerokon 2024 voiceovers and working on xmr.ru | 89Ck8PdRvkAMUp6mJw5ajyNxHWvif5KUiFPk3aXcEnUWGLyyd69rZz47CH2igxBGpGaa5odfsVHg6G26xg1w7SQAFSwjqkq | 17314590905 |
 | 0.016553024682 | hinto-janai full-time work on Cuprate (3 months) | 8AHTpvaWU8RHzmHgaisMQdAiFfbfwNGgugBEsSdysydUgcocMUkH8Y3568d9WUDvCwbrs4NyHKQfPeAvdUhEUXCxTWMVeqg | 16553024682 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
+| 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |

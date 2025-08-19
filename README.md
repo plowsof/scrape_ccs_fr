@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 157.283910929749    
-Last Updated: 2025-08-18    
+Total CCS2 overfunding: 157.287336182527    
+Last Updated: 2025-08-19    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -72,6 +72,7 @@ Last Updated: 2025-08-18
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
 | 0.005002155482 | 0xfffc full-time C++ development (3 months, Jan, Feb, Mar, 2025) | 89CYPC8JLTMPCJqTYpr6BTYarCCD6qNXQZxP5Sz19A4KZGKg7CZ5cE4PkNM4rPKWNge5vK2JvCbv54mAAq831eXG3f4bTHN | 5002155482 |
 | 0.003913812677 | Revuo Monero maintenance (2025 Q1) | 86b6hAQVULgcfCUW3RnFsTirq8fAFWrGxdSQJwZbeiCdSLhjvTp5sezCrzrhAKzZkFD5cXSNbqmMEQ2ZNF3L96FJNYXv9Vm | 3913812677 |
+| 0.003425252778 | acx part-time work on Monfluo 2025Q3 | 852wgaEvpYLEGzjUEpAt5d8tLf5M2yCP9CYp3wgFzyDzWbv65oyRdkqZkyWTieJsHj3FeEGVAei6rQp2LKriP4bmHEVfuyf | 3425252778 |
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |

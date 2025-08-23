@@ -13,13 +13,13 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 157.287336182527    
-Last Updated: 2025-08-22    
+Total CCS2 overfunding: 157.315536182527    
+Last Updated: 2025-08-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
 | 16.4855 | SNeedlewoods-01_part-time dev work (1 month) | 88obhC6nFomGX5P2Ve5hfvew85f5dEVwo5ZzkWk8ErMd45X1oFoMwTUXUsFvy6i6GvJZqgpEwUx2gNZHvXvEc92nGFwbegx | 16485500000000 |
-| 12.041538657695 | Rucknium Research II | 89thancVNcXHzLNGRRBRxReU96MpJcNd6PNFJn2bHLDwihrfr2vthvtB6c1Ezgo8dRh4gzoujAFWYJ2qH9awzM4gKjQiKP6 | 12041538657695 |
+| 12.069738657695 | Rucknium Research II | 89thancVNcXHzLNGRRBRxReU96MpJcNd6PNFJn2bHLDwihrfr2vthvtB6c1Ezgo8dRh4gzoujAFWYJ2qH9awzM4gKjQiKP6 | 12069738657695 |
 | 7.445431262592 | XMRChat - a service for content creators to receive messages and tips in Monero. | 8BwQ4oLXxcAAym2fqBtTKoF6qSmWfs8tbcQQ9GsdG5aBGLBtmab7CWtfDVphfcvunyTkw9LdTvri76mmS3Fvn79hJE33EHM | 7445431262592 |
 | 6.014848361112 | Revuo Monero maintenance (2025 Q3) | 8B7TUPbLE35boiQLafMtT8j54MbX6gA8pgzbLWJs2x7DHLccbtJyZ1pHWYNjUibwC96GAoRwivNvNLRCxwaWH7asUFNnaYq | 6014848361112 |
 | 4.87041783759 | j-berman full-time development (4 months) | 82eLnESqg8t2iwCt5xPtgx7381Y4hoy2NWbBwE3PT9r5JqGd1c1J2NpAghxuhjgBJMQSd9poGtXgMAzt4pjVUq81B1NCz1x | 4870417837590 |

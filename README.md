@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 158.326271939916    
-Last Updated: 2025-09-29    
+Total CCS2 overfunding: 158.361271939916    
+Last Updated: 2025-09-30    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -49,6 +49,7 @@ Last Updated: 2025-09-29
 | 0.078334559407 | CCS Coordinator | 82dD5oYRXatgVHCNWEXyrWGDJHbkUiJzY8WNPApPfBmaEtWSDdJMtrU6HQDTwNeM42TGbJtQHhm9JZz7zuneLRc5NEoanLS | 78334559407 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
 | 0.05715988 | Revuo Monero maintenance (2025 Q2) | 88sDCmPMEhMWKPitFXyJ9hSeFESwE6SAVCTrPo3WiRySiA3J8352Zcx2BTS7pVTb9G3pmxPJ2FpSy89M9nj5nQJ32DWgQA6 | 57159880000 |
+| 0.047261374252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 47261374252 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |
 | 0.04515866746 | tobtoht full-time feather + core development (3 months) | 85Q31orbGjKizcKYJGS1tkHv2AdftSQbWZ9ytT9FzYrGWhc3ZNC72XX81Zkd5e5DjvSxkfAFRffGaUZowGzNJ5maKm1dhpe | 45158667460 |
 | 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
@@ -64,7 +65,6 @@ Last Updated: 2025-09-29
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
-| 0.012261374252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 12261374252 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |

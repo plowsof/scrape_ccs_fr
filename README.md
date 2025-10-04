@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 158.361341219916    
-Last Updated: 2025-10-03    
+Total CCS2 overfunding: 158.372279377563    
+Last Updated: 2025-10-04    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -66,6 +66,7 @@ Last Updated: 2025-10-03
 | 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
+| 0.010938157647 | Development of a Book on a Finality Layer | 86HKT4scxog7ppW6Uwst9ngfJjc6EJTdbigisyzxNsGnDUHLL7xxsXcaTsaCGY61zoGbVuqoNmSvkJA8KByeLiGVFyqvKXG | 10938157647 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |

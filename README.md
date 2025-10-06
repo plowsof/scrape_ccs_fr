@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 158.38503731064    
-Last Updated: 2025-10-05    
+Total CCS2 overfunding: 158.39503731064    
+Last Updated: 2025-10-06    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -57,6 +57,7 @@ Last Updated: 2025-10-05
 | 0.029017261088 | Offline Signing Library for XmrSigner to Production | 86qgqRXz138C1juhARumGibPjKE1btvYJ9DWnLSDtPzx1BSxtVJL7qLd3J6owEhr3H67RZgYDeNoGBumxBVFn1yqKbKztSE | 29017261088 |
 | 0.027528246974 | Monero Browser Wallet | 8BZzvEeX6TZMxSkCcTPre6PzNU6c9amAnPa7n1UdCHbF6orCb5rMXGhBk18TJuSXsK1vZ3NPqmDx43ZU86RT2ACfBtce6fv | 27528246974 |
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |
+| 0.022757933077 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 22757933077 |
 | 0.02 | acx part-time work on Monfluo (3 months) | 87mMkqBN3qs1V1mL292Wowe1otymh9vX7YDE4DnhWKu6ThYUgsW9bJGDpDTGLjjd6x8mGGzAhnoSaGqZJA27PxZsCxW8k8S | 20000000000 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |
@@ -64,7 +65,6 @@ Last Updated: 2025-10-05
 | 0.016553024682 | hinto-janai full-time work on Cuprate (3 months) | 8AHTpvaWU8RHzmHgaisMQdAiFfbfwNGgugBEsSdysydUgcocMUkH8Y3568d9WUDvCwbrs4NyHKQfPeAvdUhEUXCxTWMVeqg | 16553024682 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |
-| 0.012757933077 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 12757933077 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
 | 0.010938157647 | Development of a Book on a Finality Layer | 86HKT4scxog7ppW6Uwst9ngfJjc6EJTdbigisyzxNsGnDUHLL7xxsXcaTsaCGY61zoGbVuqoNmSvkJA8KByeLiGVFyqvKXG | 10938157647 |

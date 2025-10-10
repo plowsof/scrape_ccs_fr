@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 158.403452711154    
-Last Updated: 2025-10-09    
+Total CCS2 overfunding: 158.412981551154    
+Last Updated: 2025-10-10    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -52,9 +52,9 @@ Last Updated: 2025-10-09
 | 0.047330654252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 47330654252 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |
 | 0.04515866746 | tobtoht full-time feather + core development (3 months) | 85Q31orbGjKizcKYJGS1tkHv2AdftSQbWZ9ytT9FzYrGWhc3ZNC72XX81Zkd5e5DjvSxkfAFRffGaUZowGzNJ5maKm1dhpe | 45158667460 |
+| 0.040702173591 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 40702173591 |
 | 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
 | 0.03344243881 | ANONERO version 1.0 | 8BURayKUr4eJgVLqEL1wE7EVZ5hd59izrec5GBxdpQvjiAZxeYr8KZi6h4mexZ2bUEDRMZ3arDGM1Z8iJy1wKts38k7SLqQ | 33442438810 |
-| 0.031173333591 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 31173333591 |
 | 0.029017261088 | Offline Signing Library for XmrSigner to Production | 86qgqRXz138C1juhARumGibPjKE1btvYJ9DWnLSDtPzx1BSxtVJL7qLd3J6owEhr3H67RZgYDeNoGBumxBVFn1yqKbKztSE | 29017261088 |
 | 0.027528246974 | Monero Browser Wallet | 8BZzvEeX6TZMxSkCcTPre6PzNU6c9amAnPa7n1UdCHbF6orCb5rMXGhBk18TJuSXsK1vZ3NPqmDx43ZU86RT2ACfBtce6fv | 27528246974 |
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |

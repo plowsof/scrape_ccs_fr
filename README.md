@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 158.420554171154    
-Last Updated: 2025-10-11    
+Total CCS2 overfunding: 158.420786181154    
+Last Updated: 2025-10-12    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -49,7 +49,7 @@ Last Updated: 2025-10-11
 | 0.078334559407 | CCS Coordinator | 82dD5oYRXatgVHCNWEXyrWGDJHbkUiJzY8WNPApPfBmaEtWSDdJMtrU6HQDTwNeM42TGbJtQHhm9JZz7zuneLRc5NEoanLS | 78334559407 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
 | 0.05715988 | Revuo Monero maintenance (2025 Q2) | 88sDCmPMEhMWKPitFXyJ9hSeFESwE6SAVCTrPo3WiRySiA3J8352Zcx2BTS7pVTb9G3pmxPJ2FpSy89M9nj5nQJ32DWgQA6 | 57159880000 |
-| 0.048274793591 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 48274793591 |
+| 0.048506803591 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 48506803591 |
 | 0.047330654252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 47330654252 |
 | 0.047094107992 | Generalized Bulletproofs Security Proofs | 82zkeAZ4kebjCFP6EYFKnq6npJYe3oXkiW4saBhxtYVRY8XhRrJUNNESCp32fUwcZaZ6htX9xBPfc8CcLvAGdDffQfuMvNi | 47094107992 |
 | 0.04515866746 | tobtoht full-time feather + core development (3 months) | 85Q31orbGjKizcKYJGS1tkHv2AdftSQbWZ9ytT9FzYrGWhc3ZNC72XX81Zkd5e5DjvSxkfAFRffGaUZowGzNJ5maKm1dhpe | 45158667460 |

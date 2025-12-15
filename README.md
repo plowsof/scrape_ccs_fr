@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 160.196148404695    
-Last Updated: 2025-12-14    
+Total CCS2 overfunding: 160.463895954695    
+Last Updated: 2025-12-15    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -28,10 +28,10 @@ Last Updated: 2025-12-14
 | 1.50006938 | Revuo Monero maintenance (2024 Q4) | 83fTQe9ggkLfV7Tg4MqBDRUifj1thhQ8hZDsusL3GCYbVMxyUhqiGpgQPg9pv58iDJj1tiHau2W2PL1PnJ6DhZEVQcAdr3i | 1500069380000 |
 | 1.26891909562 | From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem | 84p4Zc86eqtTXNZmeAEPp9Mo7Q1ksajrdYcSbMJ2cAuDTEvUaQj3uadT6DboK54HfhBPCx2rPzZJmhXdkL2wz7u683tQk8S | 1268919095620 |
 | 1.237172310436 | Full-Chain Membership Proofs + Spend Authorization + Linkability Development CCS | 84dH2du7gUELZEQCb3YfneXeWiuLq1xsPiyLV5GRzSSbMryBxSnPbGsD6npWMhftNqJt3Gn5enGH3job7n4SJvoTKcNKBci | 1237172310436 |
+| 1.086179205664 | j-berman full-time development (4 months) | 8AKyoRtKQsMYYXHvakiZ5GR9fqKzviq5D8pa1TdbS3o4W1HQ3xAB8xyTCzheNuJyR9TbxK9tZLuJEMn8uhwoR3CUPjrsU4c | 1086179205664 |
 | 1. | selsta part-time monero development (3 months) | 864fV8atTZc7oVTbrx7sjHi3pmNf9HHi4HhY2oGhAiT8SkeohRHPsS7BoqmucYRzw74d53ZkYU4n324qwi8rd8q6JiM7E4q | 1000000000000 |
 | 0.998474383137 | jeffro256 full-time development 2025Q3 | 8BbERYbeuYfXyKgY25UmFYWtL9MSQcoA6EHwPMBXXpuyP5rF73AegxoNHGVXUmcMfb58Whqn9Yy6eWpfgp98MGmj8Uwp9Gs | 998474383137 |
 | 0.882306040975 | Rucknium Statistical Research | 86FE2Ftek5kDTeviY94K4T8xBbecFjbdvVqr2rZE7qTQ2ep9xWni6UMej6jNogVyC24gQFHWowRYXee5VaGTG8ZLVgaDpzH | 882306040975 |
-| 0.818431655664 | j-berman full-time development (4 months) | 8AKyoRtKQsMYYXHvakiZ5GR9fqKzviq5D8pa1TdbS3o4W1HQ3xAB8xyTCzheNuJyR9TbxK9tZLuJEMn8uhwoR3CUPjrsU4c | 818431655664 |
 | 0.75 | ofrnxmr feat BasicSwapDEX - take over the world pt 2 | 85vMkfdDSHLRwMfnfEs93HEyKZvUo5RpzXaUKW3WXXQ6CfSy3JPxuJ7T5sPttuggqJ29oJaP6BJi2YSgkxHno9nUGk4goeq | 750000000000 |
 | 0.746884983535 | j-berman full-time development (3 months) | 89RTEpVRsAh7dfZjBDTjKN8v7t9Y6shUtKCM2bZgoCsxSLG74y5S7T8fBNB2Yh4VbDKhJi2vgCpi3gmmTZME2BRy3kWHQAL | 746884983535 |
 | 0.45600048563 | Boog900 full time work on Cuprate (3 months) | 83PUfzP68hSGZrBE5DoRTePYFHCc7iLkcYi74cjshb5MZDqNBoCWasDGPbXzQhgP4viD3SE4aKumLcLTEFbxdY8aGFr8ESy | 456000485630 |

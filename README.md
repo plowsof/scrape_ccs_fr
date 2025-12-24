@@ -13,7 +13,7 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 160.503653822583    
+Total CCS2 overfunding: 160.536676872528    
 Last Updated: 2025-12-24    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -63,6 +63,7 @@ Last Updated: 2025-12-24
 | 0.027528246974 | Monero Browser Wallet | 8BZzvEeX6TZMxSkCcTPre6PzNU6c9amAnPa7n1UdCHbF6orCb5rMXGhBk18TJuSXsK1vZ3NPqmDx43ZU86RT2ACfBtce6fv | 27528246974 |
 | 0.027317743249 | anon: full-time on daemon and fcmp | 8BJQPTBE98pfcs5aTbJBMsK98HDWaVwngB7k1eZt8PmWJyUPM9JhBTYQFosNTjAT784iuCUVee9zJ4Htfhnp1aPP3rZo2XX | 27317743249 |
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |
+| 0.025054631193 | Monero Python Maintenance | 89XTocU8C4Zbe739Ra9ykj1zmMS18BuAh9nKEFWLG5Ei7yfZWHLvzxEGRjWBDn6arRN4qdL94QFUAhcB9n1hnNYH8CE466J | 25054631193 |
 | 0.02 | acx part-time work on Monfluo (3 months) | 87mMkqBN3qs1V1mL292Wowe1otymh9vX7YDE4DnhWKu6ThYUgsW9bJGDpDTGLjjd6x8mGGzAhnoSaGqZJA27PxZsCxW8k8S | 20000000000 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |
@@ -78,6 +79,7 @@ Last Updated: 2025-12-24
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
+| 0.007143554586 | v1docq47 - monero konferenco 2025 voice-over and working on xmr.ru | 84CSZ4woSSShNaWqiPtPXif7eHkB6NLtvQJs1u5an43r31UQGUJNYjz8CUg6FtQ6qreficXRzuEPqYHqjD2i15c2Tq2eTPD | 7143554586 |
 | 0.00690017905 | plowsof CCS Coordinator | 83X8oZmX78WHeq9YD8sziWFmz1RUKS73C8Cxdxcn4pnjNu62jAkjr1ThkSMhahhpezbcCd2yriVV9jHv5dzr4YnYUuBnoRo | 6900179050 |
 | 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
@@ -87,4 +89,5 @@ Last Updated: 2025-12-24
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |
+| 0.000824864166 | Getmonero.org Redesign Implementation | 861F3Czb9xuLAQMHoSuMTG5pxgT9paHQti3DA6XM8q6wRBKgpUgucs8AGz4oGXARc5TYQEM9gsiko51RnduPzDKe59fREHM | 824864166 |
 | 0.000452643275 | BTCPay Server Monero Plugin | 83Lb4KKaz7dN5F3zSWZGbJZmEsHNQEC1rJt4ZHXWCaHmgW3QqznXTssQrGai76uWwvS7Pw5SG12FDJRxuZs9g4CNNUZJyzi | 452643275 |

@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 160.545660310624    
-Last Updated: 2026-01-11    
+Total CCS2 overfunding: 160.883455149193    
+Last Updated: 2026-01-12    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -38,6 +38,7 @@ Last Updated: 2026-01-11
 | 0.42 | selsta part-time monero development (3 months) (19) | 884DYkGjsghWuKXS2JKLjj9hFqX9ho7R19SXssSSpd4RV11jSSchtwjRWCSeu26WtrG8G9c2Adgu9Mkk4FMcLGGnRnsFrMk | 420000000000 |
 | 0.410492060065 | selsta part-time monero development (3 months) (17) | 84WkBzcjxLRTBsTJsVAvj7SeRmyGeWCXYB5K4N94Azr1Qsecxj9YbkWQG4ViUpgpkrhUGQntWvKHFf94GqR1PM8nJd2ZwEJ | 410492060065 |
 | 0.41 | Carrot Spec Peer Review | 88rbpySE3jF1taKZuM8yqDEZa6aMxsshrHWdnwYnWS7R67q8uWyQWqqbGGCDs65L8EdLdDDHsjEzc5U7tXR9h2u3NRMubDB | 410000000000 |
+| 0.335794838569 | SNeedlewoods-03_part-time dev work-Q1-26 | 84hdWqRqFuhUSitfGoaW9BLSRcPnNFB3uCXGQECJ7Q1K4gAWasvKqQ7cT6FF9kYZQLGajAFFMe1ku6C9XdJTUnMwMSkXRLN | 335794838569 |
 | 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |
 | 0.198182003382 | Audit monero-serai and monero-wallet | 87jJDB4qUzTeXewTS8s19wZYYNPjq14UBirAnBXTRsHQHRjgynptSHtbX14Hu4efD3VvnZCzaZuR6f32K1LvUZzXLv4Qu5G | 198182003382 |
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |
@@ -88,6 +89,7 @@ Last Updated: 2026-01-11
 | 0.003425252778 | acx part-time work on Monfluo 2025Q3 | 852wgaEvpYLEGzjUEpAt5d8tLf5M2yCP9CYp3wgFzyDzWbv65oyRdkqZkyWTieJsHj3FeEGVAei6rQp2LKriP4bmHEVfuyf | 3425252778 |
 | 0.002957649086 | tobtoht full-time feather + core development (3 months) | 87uqBwMSGq69L3WAxjvhXdDkCyhcjbKqWf4x918FQZRaMjoKBu2ouwj2gKcW8AYPruGnCdNhYSkPLVo63XmwE2EGJ1cfvte | 2957649086 |
 | 0.002684414973 | selsta part-time monero development (3 months) | 865KwN9fsXs3ZMVzisLxyvL8FsJzrikiDNNPz8xYi2oLdaLunfdjcwHASAUCXz15f6YehuZGD6MQybwTD7sxDtxn3DhuDrU | 2684414973 |
+| 0.002 | acx part-time work on Monfluo 2026Q1 | 8BhA3VPaq4E1BakWw9ySU11gJ6Qd99DGxR9akXvGY6PuTimWZLfe2v11iJdsVxS7qSUwHMkzPa4moiWgyiE9V1i6Gdrwvrt | 2000000000 |
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |
 | 0.000824864166 | Getmonero.org Redesign Implementation | 861F3Czb9xuLAQMHoSuMTG5pxgT9paHQti3DA6XM8q6wRBKgpUgucs8AGz4oGXARc5TYQEM9gsiko51RnduPzDKe59fREHM | 824864166 |
 | 0.000452643275 | BTCPay Server Monero Plugin | 83Lb4KKaz7dN5F3zSWZGbJZmEsHNQEC1rJt4ZHXWCaHmgW3QqznXTssQrGai76uWwvS7Pw5SG12FDJRxuZs9g4CNNUZJyzi | 452643275 |

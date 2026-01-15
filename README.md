@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 160.883455149193    
-Last Updated: 2026-01-13    
+Total CCS2 overfunding: 160.884497266793    
+Last Updated: 2026-01-15    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -38,7 +38,7 @@ Last Updated: 2026-01-13
 | 0.42 | selsta part-time monero development (3 months) (19) | 884DYkGjsghWuKXS2JKLjj9hFqX9ho7R19SXssSSpd4RV11jSSchtwjRWCSeu26WtrG8G9c2Adgu9Mkk4FMcLGGnRnsFrMk | 420000000000 |
 | 0.410492060065 | selsta part-time monero development (3 months) (17) | 84WkBzcjxLRTBsTJsVAvj7SeRmyGeWCXYB5K4N94Azr1Qsecxj9YbkWQG4ViUpgpkrhUGQntWvKHFf94GqR1PM8nJd2ZwEJ | 410492060065 |
 | 0.41 | Carrot Spec Peer Review | 88rbpySE3jF1taKZuM8yqDEZa6aMxsshrHWdnwYnWS7R67q8uWyQWqqbGGCDs65L8EdLdDDHsjEzc5U7tXR9h2u3NRMubDB | 410000000000 |
-| 0.335794838569 | SNeedlewoods-03_part-time dev work-Q1-26 | 84hdWqRqFuhUSitfGoaW9BLSRcPnNFB3uCXGQECJ7Q1K4gAWasvKqQ7cT6FF9kYZQLGajAFFMe1ku6C9XdJTUnMwMSkXRLN | 335794838569 |
+| 0.336836956169 | SNeedlewoods-03_part-time dev work-Q1-26 | 84hdWqRqFuhUSitfGoaW9BLSRcPnNFB3uCXGQECJ7Q1K4gAWasvKqQ7cT6FF9kYZQLGajAFFMe1ku6C9XdJTUnMwMSkXRLN | 336836956169 |
 | 0.21340738295 | escapethe3RA Monero Observer maintenance (2023 Q4) | 8A3EjvFzbBW92wimnK8CK23Zb78JVwGJtY3XD1CV4VCfSi5z6L3kWqTVMDE8wRKqpudP4KyFFVhQTdFrxocW1ziFSrRHAii | 213407382950 |
 | 0.198182003382 | Audit monero-serai and monero-wallet | 87jJDB4qUzTeXewTS8s19wZYYNPjq14UBirAnBXTRsHQHRjgynptSHtbX14Hu4efD3VvnZCzaZuR6f32K1LvUZzXLv4Qu5G | 198182003382 |
 | 0.160953264863 | CCS Coordinator | 839bZ9KdGnMMbGzgpyFWzDd8zcuouoGeze8Ft7j9fzNhCZ2ayYzCcdnc23XNbH2Z8m2xDKSvEpcvT4CnSc5J3EG6391cTRP | 160953264863 |

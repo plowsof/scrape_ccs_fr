@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 160.906309182154    
-Last Updated: 2026-03-22    
+Total CCS2 overfunding: 161.342744787223    
+Last Updated: 2026-03-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -35,6 +35,7 @@ Last Updated: 2026-03-22
 | 0.75 | ofrnxmr feat BasicSwapDEX - take over the world pt 2 | 85vMkfdDSHLRwMfnfEs93HEyKZvUo5RpzXaUKW3WXXQ6CfSy3JPxuJ7T5sPttuggqJ29oJaP6BJi2YSgkxHno9nUGk4goeq | 750000000000 |
 | 0.746884983535 | j-berman full-time development (3 months) | 89RTEpVRsAh7dfZjBDTjKN8v7t9Y6shUtKCM2bZgoCsxSLG74y5S7T8fBNB2Yh4VbDKhJi2vgCpi3gmmTZME2BRy3kWHQAL | 746884983535 |
 | 0.45600048563 | Boog900 full time work on Cuprate (3 months) | 83PUfzP68hSGZrBE5DoRTePYFHCc7iLkcYi74cjshb5MZDqNBoCWasDGPbXzQhgP4viD3SE4aKumLcLTEFbxdY8aGFr8ESy | 456000485630 |
+| 0.436435605069 | selsta part-time monero development (3 months) (20) | 86ogfsKokFtKUn9gXBntd5iksh2ePhLfHErTCNjyrFx4hVgzVZNQgqBEzwfnhHcq6c4tTYy89AeWfcoVFpqV8jNEBJZb6VH | 436435605069 |
 | 0.42 | selsta part-time monero development (3 months) (19) | 884DYkGjsghWuKXS2JKLjj9hFqX9ho7R19SXssSSpd4RV11jSSchtwjRWCSeu26WtrG8G9c2Adgu9Mkk4FMcLGGnRnsFrMk | 420000000000 |
 | 0.410492060065 | selsta part-time monero development (3 months) (17) | 84WkBzcjxLRTBsTJsVAvj7SeRmyGeWCXYB5K4N94Azr1Qsecxj9YbkWQG4ViUpgpkrhUGQntWvKHFf94GqR1PM8nJd2ZwEJ | 410492060065 |
 | 0.41 | Carrot Spec Peer Review | 88rbpySE3jF1taKZuM8yqDEZa6aMxsshrHWdnwYnWS7R67q8uWyQWqqbGGCDs65L8EdLdDDHsjEzc5U7tXR9h2u3NRMubDB | 410000000000 |

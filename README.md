@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 161.368156853843    
-Last Updated: 2026-05-01    
+Total CCS2 overfunding: 161.368156859076    
+Last Updated: 2026-05-02    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -97,3 +97,4 @@ Last Updated: 2026-05-01
 | 0.001675431325 | jeffro256 full-time development 2024Q4 | 84uD33cYvZ6hM5ufbt19svRV46LRvMJ1rLQEGeBkCPQ9DgUnZUgoNg99Apki3WoCSJAcEMSDkdBF5fNbHrdXq45wGLSHiMN | 1675431325 |
 | 0.000824864166 | Getmonero.org Redesign Implementation | 861F3Czb9xuLAQMHoSuMTG5pxgT9paHQti3DA6XM8q6wRBKgpUgucs8AGz4oGXARc5TYQEM9gsiko51RnduPzDKe59fREHM | 824864166 |
 | 0.000452643275 | BTCPay Server Monero Plugin | 83Lb4KKaz7dN5F3zSWZGbJZmEsHNQEC1rJt4ZHXWCaHmgW3QqznXTssQrGai76uWwvS7Pw5SG12FDJRxuZs9g4CNNUZJyzi | 452643275 |
+| 0.000000005233 | hinto-janai full-time work (1 month) | 8928hc9yaZP965kroH6oKbQAtJrMzGMwg2V7uqQGj45aNtWmRZnDVHjMmB6gPATCLpfFvYyaTmRhp2zvnCZGd24m4yKwhdG | 5233 |

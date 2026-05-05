@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 161.388156859076    
-Last Updated: 2026-05-04    
+Total CCS2 overfunding: 161.399503954059    
+Last Updated: 2026-05-05    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -61,13 +61,13 @@ Last Updated: 2026-05-04
 | 0.04515866746 | tobtoht full-time feather + core development (3 months) | 85Q31orbGjKizcKYJGS1tkHv2AdftSQbWZ9ytT9FzYrGWhc3ZNC72XX81Zkd5e5DjvSxkfAFRffGaUZowGzNJ5maKm1dhpe | 45158667460 |
 | 0.037756038074 | dangerousfreedom - wallet work | 849wTh2yMCoHUUWpB2HHEaPSMEep6zfMabQu5e5uH25uZNrvzcMphSvZUtw7MJnyJ3HVZZjZnNyxr8Gb7SdHRuTuSJp1HVp | 37756038074 |
 | 0.03344243881 | ANONERO version 1.0 | 8BURayKUr4eJgVLqEL1wE7EVZ5hd59izrec5GBxdpQvjiAZxeYr8KZi6h4mexZ2bUEDRMZ3arDGM1Z8iJy1wKts38k7SLqQ | 33442438810 |
+| 0.031347100216 | hinto-janai full-time work (1 month) | 8928hc9yaZP965kroH6oKbQAtJrMzGMwg2V7uqQGj45aNtWmRZnDVHjMmB6gPATCLpfFvYyaTmRhp2zvnCZGd24m4yKwhdG | 31347100216 |
 | 0.029017261088 | Offline Signing Library for XmrSigner to Production | 86qgqRXz138C1juhARumGibPjKE1btvYJ9DWnLSDtPzx1BSxtVJL7qLd3J6owEhr3H67RZgYDeNoGBumxBVFn1yqKbKztSE | 29017261088 |
 | 0.027528246974 | Monero Browser Wallet | 8BZzvEeX6TZMxSkCcTPre6PzNU6c9amAnPa7n1UdCHbF6orCb5rMXGhBk18TJuSXsK1vZ3NPqmDx43ZU86RT2ACfBtce6fv | 27528246974 |
 | 0.027317743249 | anon: full-time on daemon and fcmp | 8BJQPTBE98pfcs5aTbJBMsK98HDWaVwngB7k1eZt8PmWJyUPM9JhBTYQFosNTjAT784iuCUVee9zJ4Htfhnp1aPP3rZo2XX | 27317743249 |
 | 0.026784559126 | hinto-janai full-time work on Cuprate (3 months) | 8AwApQX8MuMCgNer7e5dKXiVVV1iPyQNg3P93YqS4LjwfGwBiCHYeiuFfYH4HKKexz4RVAVKuyDuPhfVAiGnfuyP755wPum | 26784559126 |
 | 0.025267101193 | Monero Python Maintenance | 89XTocU8C4Zbe739Ra9ykj1zmMS18BuAh9nKEFWLG5Ei7yfZWHLvzxEGRjWBDn6arRN4qdL94QFUAhcB9n1hnNYH8CE466J | 25267101193 |
 | 0.022303305361 | emsczkp research Bulletproofs* | 8AMqfTL6Z9ATgEZUG2WU3BfJs1iJ5kB18WabirCBL2ws1jvnn2mSy4pURyiMW2R3dzUuDGxo2tysmQDPpL2YffWRSUCghD1 | 22303305361 |
-| 0.020000005233 | hinto-janai full-time work (1 month) | 8928hc9yaZP965kroH6oKbQAtJrMzGMwg2V7uqQGj45aNtWmRZnDVHjMmB6gPATCLpfFvYyaTmRhp2zvnCZGd24m4yKwhdG | 20000005233 |
 | 0.02 | acx part-time work on Monfluo (3 months) | 87mMkqBN3qs1V1mL292Wowe1otymh9vX7YDE4DnhWKu6ThYUgsW9bJGDpDTGLjjd6x8mGGzAhnoSaGqZJA27PxZsCxW8k8S | 20000000000 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |

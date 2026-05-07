@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 161.399503954059    
-Last Updated: 2026-05-06    
+Total CCS2 overfunding: 161.409442594059    
+Last Updated: 2026-05-07    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -82,6 +82,7 @@ Last Updated: 2026-05-06
 | 0.010938157647 | Development of a Book on a Finality Layer | 86HKT4scxog7ppW6Uwst9ngfJjc6EJTdbigisyzxNsGnDUHLL7xxsXcaTsaCGY61zoGbVuqoNmSvkJA8KByeLiGVFyqvKXG | 10938157647 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |
 | 0.01 | Retroactive funding for work on full-chain membership proofs | 87hhohF3ihPB5ETHvTan7f1U9drgXQa6Y8eHaNmrQjVxNrKa15EgnywDX1KrndzE3AJVz29SjWCz1GJRCY3s9k7AJXvpjJ5 | 10000000000 |
+| 0.00993864 | acx part-time work on Monfluo 2026Q2 | 8BpGV2iqufEgp6ZvHybAg8MrpsFy368ZYVpHFhbn5fQqQGJGV2SxHWCfApEGR5W62hSnvQKyrqDdCQANuNrXqAeiFaXp2BF | 9938640000 |
 | 0.0087 | jeffro256 full-time development 2024Q2 | 8AztXUywntKeEbkEjvqDLt6pEpLiPwgGc4umjiMuAujsEdH3dSUoKJxaJDbNJqmsevZAUbSmR658YUydYYinRnsQJRCYBTA | 8700000000 |
 | 0.008121297245 | jeffro256 full-time development 2026Q1 | 82Z16LibhTaNQiMamBymmEhyrc27eCMmFfUQm9XSK7ST4CrJxuMsxpMTQqZa5ugMQQZTk1KiHg4haev3dfxYigcPTwbcYBw | 8121297245 |
 | 0.007143554586 | v1docq47 - monero konferenco 2025 voice-over and working on xmr.ru | 84CSZ4woSSShNaWqiPtPXif7eHkB6NLtvQJs1u5an43r31UQGUJNYjz8CUg6FtQ6qreficXRzuEPqYHqjD2i15c2Tq2eTPD | 7143554586 |

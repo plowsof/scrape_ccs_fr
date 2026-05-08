@@ -13,7 +13,7 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 161.409442594059    
+Total CCS2 overfunding: 161.426677985595    
 Last Updated: 2026-05-08    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
@@ -73,6 +73,7 @@ Last Updated: 2026-05-08
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |
 | 0.017723800779 | jeffro256 full-time development 2025Q4 | 8A7WXMdvvjj43XsFdVfnxbAW8Ad1RUqXi5eGwibneJAqB2GvmzmsZnrh8imxvejKMs3LfUG6WFMKA9YKueh3c6wBC9YwrPG | 17723800779 |
 | 0.017314590905 | v1docq47 - monerokon 2024 voiceovers and working on xmr.ru | 89Ck8PdRvkAMUp6mJw5ajyNxHWvif5KUiFPk3aXcEnUWGLyyd69rZz47CH2igxBGpGaa5odfsVHg6G26xg1w7SQAFSwjqkq | 17314590905 |
+| 0.017235391536 | Boog900 Cuprate RPC for wallet support (Rust Monero node). | 83v61QnPTAkEQwsc2gFjKD1chiiydgDPa1gxTXeBMiMFKmiQvKdR1MxBgoxNpgiTdSePrnWmRaDcNdyxJxzs6CvdVqTQk1P | 17235391536 |
 | 0.016553024682 | hinto-janai full-time work on Cuprate (3 months) | 8AHTpvaWU8RHzmHgaisMQdAiFfbfwNGgugBEsSdysydUgcocMUkH8Y3568d9WUDvCwbrs4NyHKQfPeAvdUhEUXCxTWMVeqg | 16553024682 |
 | 0.013567460571 | jeffro256 full-time development 2023Q4 | 89QmK7YnnGv8QcvKg34Le5ENMBMJYEGV89yrprV93KcF4HDXs27CVkrdLuK6jRd6thUMdDQfHuAgk849eFz4MC21RJFvSGW | 13567460571 |
 | 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |

@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 161.426677985595    
-Last Updated: 2026-05-12    
+Total CCS2 overfunding: 162.921473712935    
+Last Updated: 2026-05-13    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -26,6 +26,7 @@ Last Updated: 2026-05-12
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |
 | 1.50006938 | Revuo Monero maintenance (2024 Q4) | 83fTQe9ggkLfV7Tg4MqBDRUifj1thhQ8hZDsusL3GCYbVMxyUhqiGpgQPg9pv58iDJj1tiHau2W2PL1PnJ6DhZEVQcAdr3i | 1500069380000 |
+| 1.482426313678 | FCMP++ Integration Audit | 85gzPEzfkkCKnPVMVL5fQX98JGCFkT6GFd5scV14wjXgBmSExSm9uZ5AXDVKZsmV5JdFBQNYP7EXuWpvZhGY5orbLbN9R7g | 1482426313678 |
 | 1.26891909562 | From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem | 84p4Zc86eqtTXNZmeAEPp9Mo7Q1ksajrdYcSbMJ2cAuDTEvUaQj3uadT6DboK54HfhBPCx2rPzZJmhXdkL2wz7u683tQk8S | 1268919095620 |
 | 1.237172310436 | Full-Chain Membership Proofs + Spend Authorization + Linkability Development CCS | 84dH2du7gUELZEQCb3YfneXeWiuLq1xsPiyLV5GRzSSbMryBxSnPbGsD6npWMhftNqJt3Gn5enGH3job7n4SJvoTKcNKBci | 1237172310436 |
 | 1.086179205664 | j-berman full-time development (4 months) | 8AKyoRtKQsMYYXHvakiZ5GR9fqKzviq5D8pa1TdbS3o4W1HQ3xAB8xyTCzheNuJyR9TbxK9tZLuJEMn8uhwoR3CUPjrsU4c | 1086179205664 |
@@ -79,6 +80,7 @@ Last Updated: 2026-05-12
 | 0.013114513103 | Monero Network Simulation Tool | 87DMhBWZRBvbmedQqemrvZhaSLxheq4fSiRrEFrwt3xwZ3QthqsfaRveGRBsvY1P8EJCN2XfZJJ4eXdd3nqekQQsRJKdyrU | 13114513103 |
 | 0.012668833364 | jeffro256 full-time development 2025Q1 | 8Bty4VdV5BZPN4wVUE6rbnGyqGUjCsKRPigmRDYA5NdPG4ZjUmX9TKZYauL4dDfEToEepTTKcJkdxPwK6fSHfmrw54QTpYT | 12668833364 |
 | 0.01251972 | acx part-time work on Monfluo 2025Q4 | 82pQzvG3wpCDZ6QbgwZUNNbStvf4z9hAFBKnY65EVUa3KqFbEVdZ2B2EPAPnapcBLXGHiQLu3n3BFWw62VQJvGodJEbeEhS | 12519720000 |
+| 0.012369413662 | SNeedlewoods-04_part-time-dev-Q2-26 | 8Bx8VgMsBDNb5AZJ8fGfV6atDdTinHcvkU3CgGXuokwYPcNRfqn4EMKDsR1S4gSrqbVEF74m7wLUZT2m74dsVa2s39RYuMQ | 12369413662 |
 | 0.010990444871 | Boog900 full time work on Cuprate (3 months) | 87skBDD7U8w84Q56Mfqj7QC8LDCNjHkyY8EfRU2DB3hRSZoWufkioFU5xJNRKLwJ11fJ9kGPzuXUEZC2HhW6XTn4NPsup92 | 10990444871 |
 | 0.010938157647 | Development of a Book on a Finality Layer | 86HKT4scxog7ppW6Uwst9ngfJjc6EJTdbigisyzxNsGnDUHLL7xxsXcaTsaCGY61zoGbVuqoNmSvkJA8KByeLiGVFyqvKXG | 10938157647 |
 | 0.01029000053 | hinto-janai full-time work on Cuprate (3 months) | 88GsbCTN64E2YCMZtZQ9gUckcvX5e3jnY5tjSWXZmGwwhoB1NTfeDJxZjsuiFZEhJfGvxChBEkDmzVj18baFBnfwEihq3LT | 10290000530 |

@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 162.934411662529    
-Last Updated: 2026-05-22    
+Total CCS2 overfunding: 162.935411662529    
+Last Updated: 2026-05-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -26,7 +26,7 @@ Last Updated: 2026-05-22
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |
 | 1.50006938 | Revuo Monero maintenance (2024 Q4) | 83fTQe9ggkLfV7Tg4MqBDRUifj1thhQ8hZDsusL3GCYbVMxyUhqiGpgQPg9pv58iDJj1tiHau2W2PL1PnJ6DhZEVQcAdr3i | 1500069380000 |
-| 1.495364263272 | FCMP++ Integration Audit | 85gzPEzfkkCKnPVMVL5fQX98JGCFkT6GFd5scV14wjXgBmSExSm9uZ5AXDVKZsmV5JdFBQNYP7EXuWpvZhGY5orbLbN9R7g | 1495364263272 |
+| 1.496364263272 | FCMP++ Integration Audit | 85gzPEzfkkCKnPVMVL5fQX98JGCFkT6GFd5scV14wjXgBmSExSm9uZ5AXDVKZsmV5JdFBQNYP7EXuWpvZhGY5orbLbN9R7g | 1496364263272 |
 | 1.26891909562 | From Prototype to Marketplace: Maturing the XMR-BTC Atomic Swaps Ecosystem | 84p4Zc86eqtTXNZmeAEPp9Mo7Q1ksajrdYcSbMJ2cAuDTEvUaQj3uadT6DboK54HfhBPCx2rPzZJmhXdkL2wz7u683tQk8S | 1268919095620 |
 | 1.237172310436 | Full-Chain Membership Proofs + Spend Authorization + Linkability Development CCS | 84dH2du7gUELZEQCb3YfneXeWiuLq1xsPiyLV5GRzSSbMryBxSnPbGsD6npWMhftNqJt3Gn5enGH3job7n4SJvoTKcNKBci | 1237172310436 |
 | 1.086179205664 | j-berman full-time development (4 months) | 8AKyoRtKQsMYYXHvakiZ5GR9fqKzviq5D8pa1TdbS3o4W1HQ3xAB8xyTCzheNuJyR9TbxK9tZLuJEMn8uhwoR3CUPjrsU4c | 1086179205664 |

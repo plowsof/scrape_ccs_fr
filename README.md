@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 162.958031289375    
-Last Updated: 2026-06-14    
+Total CCS2 overfunding: 162.979031292024    
+Last Updated: 2026-06-15    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -70,6 +70,7 @@ Last Updated: 2026-06-14
 | 0.025267101193 | Monero Python Maintenance | 89XTocU8C4Zbe739Ra9ykj1zmMS18BuAh9nKEFWLG5Ei7yfZWHLvzxEGRjWBDn6arRN4qdL94QFUAhcB9n1hnNYH8CE466J | 25267101193 |
 | 0.022303305361 | emsczkp research Bulletproofs* | 8AMqfTL6Z9ATgEZUG2WU3BfJs1iJ5kB18WabirCBL2ws1jvnn2mSy4pURyiMW2R3dzUuDGxo2tysmQDPpL2YffWRSUCghD1 | 22303305361 |
 | 0.021618405295 | selsta full-time monero development (3 months) (21) | 84AHbX2dfCFCYGHfWFNxzii5sbMkUPiV5gUR799T4eSZCwHYgcBjARAUqcmMGtcbRoPBGoW2yHn9zfe1vH9pDVqtEFVvnaG | 21618405295 |
+| 0.021000002649 | plowsof - CCS Coordinator + QATS | 82uzzStRH2ZKXcZfFHnGARVpgah3F3o6S5FszyhLaWbpMQ8NrGrXtaYWnDtSDcgufKK9sdpNv7ahkb5MQ2sKe6EG1b3ouhm | 21000002649 |
 | 0.02 | acx part-time work on Monfluo (3 months) | 87mMkqBN3qs1V1mL292Wowe1otymh9vX7YDE4DnhWKu6ThYUgsW9bJGDpDTGLjjd6x8mGGzAhnoSaGqZJA27PxZsCxW8k8S | 20000000000 |
 | 0.01851912 | 0xfffc part-time C++ development (3 months, February, March, April, 2024) | 85twxB2uGWZZcPUfZPN7Bj9xUgKM6TGVkDkUADHkssJLBermhsRBQ53eG9vArWwsmNEfrbkBsBjybMwdbontWZJSLiUDDSD | 18519120000 |
 | 0.018162238778 | Gingeropolous 1TB MRC upgrade | 85WK2PBxnVh1mTFZZ4QBzmP689DXGP6uFZKsKVJ6B9hwdjZXchdUUoYcXBaFipbXK3FKzRk9iHGRKhmNZyKAxj75DDAc9nF | 18162238778 |

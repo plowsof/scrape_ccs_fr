@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 168.517907964938    
-Last Updated: 2026-08-10    
+Total CCS2 overfunding: 168.526407964938    
+Last Updated: 2026-08-12    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 95.42 | xmruw - development of cross platform wallet | 88phwQdANd9GgWBmzcPs1cNG329aGHaAPXp93Ryj98gNVVsjTMzNMLAYNx54eSbZqEAGo51w6H3Q1MHQE6iS1qrV6UB1X8u | 95420000000000 |
@@ -22,7 +22,7 @@ Last Updated: 2026-08-10
 | 12.069738657695 | Rucknium Research II | 89thancVNcXHzLNGRRBRxReU96MpJcNd6PNFJn2bHLDwihrfr2vthvtB6c1Ezgo8dRh4gzoujAFWYJ2qH9awzM4gKjQiKP6 | 12069738657695 |
 | 7.445431262592 | XMRChat - a service for content creators to receive messages and tips in Monero. | 8BwQ4oLXxcAAym2fqBtTKoF6qSmWfs8tbcQQ9GsdG5aBGLBtmab7CWtfDVphfcvunyTkw9LdTvri76mmS3Fvn79hJE33EHM | 7445431262592 |
 | 6.014848361112 | Revuo Monero maintenance (2025 Q3) | 8B7TUPbLE35boiQLafMtT8j54MbX6gA8pgzbLWJs2x7DHLccbtJyZ1pHWYNjUibwC96GAoRwivNvNLRCxwaWH7asUFNnaYq | 6014848361112 |
-| 5.068717506102 | koe: Research and Development 1 | 8472v93tFQVUs5kcjtndcETi5YHfDpdhSFShi2irqgmGH6HFXn95FAchUfsPmX8QNvdNhPJkeYRyY5ZtQVZEkQCG1SLeiFW | 5068717506102 |
+| 5.077217506102 | koe: Research and Development 1 | 8472v93tFQVUs5kcjtndcETi5YHfDpdhSFShi2irqgmGH6HFXn95FAchUfsPmX8QNvdNhPJkeYRyY5ZtQVZEkQCG1SLeiFW | 5077217506102 |
 | 4.87041783759 | j-berman full-time development (4 months) | 82eLnESqg8t2iwCt5xPtgx7381Y4hoy2NWbBwE3PT9r5JqGd1c1J2NpAghxuhjgBJMQSd9poGtXgMAzt4pjVUq81B1NCz1x | 4870417837590 |
 | 2.791613143145 | 0xfffc full-time C++ development (3 months, Sep, Oct, Nov, 2024) | 82nK54EDCXSa3kXQVKuywmNW63eYyELoVSxqSxmtTgkq6JMX5mqc8mGamMtTTdd1VZAi4L6ZpgZmqMHVVdTpCqWkGKv4uLy | 2791613143145 |
 | 1.891421617309 | tobtoht full-time feather + core development (3 months) | 87u4zA9Ku6FNWQEJi3W5YeVCoEZL1nspMMXs53YLybmxNPc66C2yPgWPqdRuttwKTkYZJoRyg3F8xUrJiRARkNohH9k1QDx | 1891421617309 |

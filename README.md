@@ -14,7 +14,7 @@ Overfunding given to proposor: (one off)
 ---
 
 Total CCS2 overfunding: 288.533237736246    
-Last Updated: 2026-09-29    
+Last Updated: 2026-09-30    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 120.005963392938 | jeffro256 full-time development 2026Q2 | 8A3XUwfFeCJFTLTCsA8RgVdT9VQw6NBRxjPg6w2izFuyAhAdak25xtpctYPtVtuFboatxfvZqzbsjF7bf375CNjYHVQs6cC | 120005963392938 |

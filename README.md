@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 288.593651987365    
-Last Updated: 2026-10-29    
+Total CCS2 overfunding: 288.59369771689    
+Last Updated: 2026-10-30    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 120.005963392938 | jeffro256 full-time development 2026Q2 | 8A3XUwfFeCJFTLTCsA8RgVdT9VQw6NBRxjPg6w2izFuyAhAdak25xtpctYPtVtuFboatxfvZqzbsjF7bf375CNjYHVQs6cC | 120005963392938 |
@@ -58,7 +58,7 @@ Last Updated: 2026-10-29
 | 0.078334559407 | CCS Coordinator | 82dD5oYRXatgVHCNWEXyrWGDJHbkUiJzY8WNPApPfBmaEtWSDdJMtrU6HQDTwNeM42TGbJtQHhm9JZz7zuneLRc5NEoanLS | 78334559407 |
 | 0.07187562181 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 71875621810 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
-| 0.060414251119 | jpk68 full-time work (3 months) | 8BAvPSdFzgg5b95K6AHmXDQRXXzWhi63GLepFoduiY1dekXQVXQGL3pWh59oe8wjU4Tn1YgZq1B2qU9UyvNKyHf6EVrpUgC | 60414251119 |
+| 0.060459980644 | jpk68 full-time work (3 months) | 8BAvPSdFzgg5b95K6AHmXDQRXXzWhi63GLepFoduiY1dekXQVXQGL3pWh59oe8wjU4Tn1YgZq1B2qU9UyvNKyHf6EVrpUgC | 60459980644 |
 | 0.05715988 | Revuo Monero maintenance (2025 Q2) | 88sDCmPMEhMWKPitFXyJ9hSeFESwE6SAVCTrPo3WiRySiA3J8352Zcx2BTS7pVTb9G3pmxPJ2FpSy89M9nj5nQJ32DWgQA6 | 57159880000 |
 | 0.048528835984 | vtnerd full-time 2025 q4 | 88FBSvmiYMXPmcWpGBVw6HbJ4wzPc8RBufku8TswxcrDN5RHaN292w7NZbjM8ZEq8ZDQs9rfu88UdYVjY9t3zq8v885J58K | 48528835984 |
 | 0.047330654252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 47330654252 |

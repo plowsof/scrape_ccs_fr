@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 288.67241219033    
-Last Updated: 2026-11-05    
+Total CCS2 overfunding: 288.71208019033    
+Last Updated: 2026-11-06    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 120.005963392938 | jeffro256 full-time development 2026Q2 | 8A3XUwfFeCJFTLTCsA8RgVdT9VQw6NBRxjPg6w2izFuyAhAdak25xtpctYPtVtuFboatxfvZqzbsjF7bf375CNjYHVQs6cC | 120005963392938 |
@@ -54,12 +54,12 @@ Last Updated: 2026-11-05
 | 0.109869583149 | selsta part-time monero development (3 months) (16) | 8AXB1kmi6ZzEEJcX9j688jbysu1YySKLpbTpNSKCvyd72yZQxsMZ11Efxx3Sp6qnS1iNuVgdxkxBJWozqnTKRXBZT9t4xMA | 109869583149 |
 | 0.10696243161 | v1docq47 - monerotopia 2023 (part 3) and monerokon 2023 (part 2) voiceovers and working on xmr.ru | 8AJ72WRpKwcdNzjmF2WHcfgy7QfrFAZbQb6HNG2DYoxcNDhQbB5f7sHK1NgzN2tchua5q39ooa9f54fZmhpGvpTVJdsLw5E | 106962431610 |
 | 0.104179033935 | vtnerd full-time 2025 q1/q2 | 83jTe1UCUgu6jyLWVY8SEEAQUB7NxXjZHFXoakGmJ6aWiQJpZhWWgqmA7kNZrj81nWPeKVmFDEmZ4PTLu1XN7YvzJqensoL | 104179033935 |
+| 0.100127980644 | jpk68 full-time work (3 months) | 8BAvPSdFzgg5b95K6AHmXDQRXXzWhi63GLepFoduiY1dekXQVXQGL3pWh59oe8wjU4Tn1YgZq1B2qU9UyvNKyHf6EVrpUgC | 100127980644 |
 | 0.093304134656 | Boog900 full time work on Cuprate (3 months) + January | 84nRC8w76N8F4PZMyKNFfS4WWx9ujPNrNSoy5nhY568gevN3yfwn6yB7RcE4YAmKLaPitpzRAe4x67Fv8VWhBqrV4FQySRB | 93304134656 |
 | 0.07871447344 | Boog900 Cuprate FCMP++ support (Rust Monero node). | 8AXbNZCsKWZ2BR74CzPsGCCQSbzfCRcCEQnvXDzmACP6H2k1Gf5pXxPGP9CJU9Mgxy9EUG3fU71aWPZqFCSzFj5n8Wx4b2m | 78714473440 |
 | 0.078334559407 | CCS Coordinator | 82dD5oYRXatgVHCNWEXyrWGDJHbkUiJzY8WNPApPfBmaEtWSDdJMtrU6HQDTwNeM42TGbJtQHhm9JZz7zuneLRc5NEoanLS | 78334559407 |
 | 0.07187562181 | EVM Atomic Swaps Development | 89hQzxc4QuqPuMLoTQ6DRvMe5x3PmjvPxb4a4RwNR3YRbQzDBdwnrdSHkH4HSYcckjaZnuzx5Yxr6a1S29g3Saiy8xVzytj | 71875621810 |
 | 0.069 | Do they know its CCSmas time again? | 8AGhVh2dTJdEcwQHpHLKq5ZD37ocfGQpeZ3AyDbcT9wCMT5GJLWNN9VjZrs2mPHy4R8hC2it9xyx13dzUZapfhfeGL4dj6c | 69000000000 |
-| 0.060459980644 | jpk68 full-time work (3 months) | 8BAvPSdFzgg5b95K6AHmXDQRXXzWhi63GLepFoduiY1dekXQVXQGL3pWh59oe8wjU4Tn1YgZq1B2qU9UyvNKyHf6EVrpUgC | 60459980644 |
 | 0.05715988 | Revuo Monero maintenance (2025 Q2) | 88sDCmPMEhMWKPitFXyJ9hSeFESwE6SAVCTrPo3WiRySiA3J8352Zcx2BTS7pVTb9G3pmxPJ2FpSy89M9nj5nQJ32DWgQA6 | 57159880000 |
 | 0.048528835984 | vtnerd full-time 2025 q4 | 88FBSvmiYMXPmcWpGBVw6HbJ4wzPc8RBufku8TswxcrDN5RHaN292w7NZbjM8ZEq8ZDQs9rfu88UdYVjY9t3zq8v885J58K | 48528835984 |
 | 0.047330654252 | selsta part-time monero development (3 months) (18) | 836vvCkGh6XSGbKaATqYy4X7ARe9J6Gut9A1sieXQSpyBSd5VPvPYJdLBQtoavHkTzEfwZqaE5fex9xqtTSQYBpdTDGbHn3 | 47330654252 |

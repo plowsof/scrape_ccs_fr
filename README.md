@@ -13,8 +13,8 @@ Overfunding given to proposor: (one off)
 
 ---
 
-Total CCS2 overfunding: 288.718332928829    
-Last Updated: 2026-11-22    
+Total CCS2 overfunding: 288.719332928829    
+Last Updated: 2026-11-23    
 | Amount | Title | Address | atomic units |
 | --- | --- | --- | --- |
 | 120.005963392938 | jeffro256 full-time development 2026Q2 | 8A3XUwfFeCJFTLTCsA8RgVdT9VQw6NBRxjPg6w2izFuyAhAdak25xtpctYPtVtuFboatxfvZqzbsjF7bf375CNjYHVQs6cC | 120005963392938 |
@@ -99,8 +99,8 @@ Last Updated: 2026-11-22
 | 0.007143554586 | v1docq47 - monero konferenco 2025 voice-over and working on xmr.ru | 84CSZ4woSSShNaWqiPtPXif7eHkB6NLtvQJs1u5an43r31UQGUJNYjz8CUg6FtQ6qreficXRzuEPqYHqjD2i15c2Tq2eTPD | 7143554586 |
 | 0.00690017905 | plowsof CCS Coordinator | 83X8oZmX78WHeq9YD8sziWFmz1RUKS73C8Cxdxcn4pnjNu62jAkjr1ThkSMhahhpezbcCd2yriVV9jHv5dzr4YnYUuBnoRo | 6900179050 |
 | 0.006462579375 | vtnerd Full-time 2026 Q2 | 8BGHwam9rEcViJ7R4QoYHGUHApZN3C5A8hnqgCKuS8uLe1rPe65sDDwJNeTknDUUcz7mmg6MSaL3xgvxc8dxoEN5Rp9Mm4r | 6462579375 |
+| 0.006252738499 | SyntheticBird Cuprate Address Book, Reproducible Build and Supply Chain Security (3 months) | 87i2ERJtfaxTisziz99qgMQn9nzduXCyV9YerZ9upSgteY2UVMPCaDTTWNHirusYr5S5LPnPXorUrUycWzmFsQ7T4H1XhVy | 6252738499 |
 | 0.006027178096 | dangerousfreedom - seraphis wallet work until regtest | 865kWWcNyA2VVb8aSReTnfJjbL3j1PTcaRYNybaWD5GfX1XVkQ1kaBDV3RovXANmpTYx7NRBtzSch5ijq2sguKiSUtCkafu | 6027178096 |
-| 0.005252738499 | SyntheticBird Cuprate Address Book, Reproducible Build and Supply Chain Security (3 months) | 87i2ERJtfaxTisziz99qgMQn9nzduXCyV9YerZ9upSgteY2UVMPCaDTTWNHirusYr5S5LPnPXorUrUycWzmFsQ7T4H1XhVy | 5252738499 |
 | 0.005093765622 | 0xFFFC full-time C++ development (3 months, May, June, July, 2024) | 89qvRYW1n4mMF9MfLShupm5FE9fDSVXtmP5Ek3yxv9Jw6g7H7UnXpRtVb2fcwp18oVBSqS2NwLs3GBUKH7UBuH7PUbwZsqL | 5093765622 |
 | 0.005002155482 | 0xfffc full-time C++ development (3 months, Jan, Feb, Mar, 2025) | 89CYPC8JLTMPCJqTYpr6BTYarCCD6qNXQZxP5Sz19A4KZGKg7CZ5cE4PkNM4rPKWNge5vK2JvCbv54mAAq831eXG3f4bTHN | 5002155482 |
 | 0.003913812677 | Revuo Monero maintenance (2025 Q1) | 86b6hAQVULgcfCUW3RnFsTirq8fAFWrGxdSQJwZbeiCdSLhjvTp5sezCrzrhAKzZkFD5cXSNbqmMEQ2ZNF3L96FJNYXv9Vm | 3913812677 |
